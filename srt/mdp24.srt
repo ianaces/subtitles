@@ -1,0 +1,5428 @@
+1
+00:00:00,359 --> 00:00:04,759
+hello and welcome to the season 2 finale
+
+2
+00:00:02,440 --> 00:00:07,480
+of modernday philosophers I'm your host
+
+3
+00:00:04,759 --> 00:00:09,760
+Danny LEL you're the listener that's
+
+4
+00:00:07,480 --> 00:00:12,400
+what you're doing anyway and the guest
+
+5
+00:00:09,760 --> 00:00:13,920
+today is Arty Lang one of my favorite
+
+6
+00:00:12,400 --> 00:00:16,440
+people to talk to and one of the
+
+7
+00:00:13,920 --> 00:00:18,359
+funniest people on the planet very
+
+8
+00:00:16,440 --> 00:00:20,199
+excited to have him on the show we
+
+9
+00:00:18,359 --> 00:00:22,800
+recorded this interview at his apartment
+
+10
+00:00:20,199 --> 00:00:24,279
+in Hoboken New Jersey Thanksgiving time
+
+11
+00:00:22,800 --> 00:00:26,840
+so I've been sitting on this one for a
+
+12
+00:00:24,279 --> 00:00:30,119
+while waiting to use it for the season
+
+13
+00:00:26,840 --> 00:00:31,199
+finale and I I thought it I think I
+
+14
+00:00:30,119 --> 00:00:32,800
+think you're really going to enjoy it
+
+15
+00:00:31,199 --> 00:00:35,399
+there's one question I I know I don't
+
+16
+00:00:32,800 --> 00:00:37,200
+have to point this out but I misspoke
+
+17
+00:00:35,399 --> 00:00:39,399
+when I asked it wasn't I said I was
+
+18
+00:00:37,200 --> 00:00:41,079
+wondering if addiction and desire were
+
+19
+00:00:39,399 --> 00:00:43,480
+the same thing of course that question
+
+20
+00:00:41,079 --> 00:00:46,399
+to me makes no sense but when I asked it
+
+21
+00:00:43,480 --> 00:00:48,160
+I said to myself I let already answer
+
+22
+00:00:46,399 --> 00:00:49,680
+and then I'll just cut it out but then
+
+23
+00:00:48,160 --> 00:00:51,800
+what he answered I thought was so
+
+24
+00:00:49,680 --> 00:00:54,199
+fascinating I just left the whole thing
+
+25
+00:00:51,800 --> 00:00:55,640
+in and I know I could have probably just
+
+26
+00:00:54,199 --> 00:00:57,879
+not said anything and maybe people
+
+27
+00:00:55,640 --> 00:00:59,760
+wouldn't have noticed but I just felt
+
+28
+00:00:57,879 --> 00:01:01,960
+like I as long as I put a question in
+
+29
+00:00:59,760 --> 00:01:05,159
+the doesn't make sense to me I have the
+
+30
+00:01:01,960 --> 00:01:07,360
+right to tell you so other than that I
+
+31
+00:01:05,159 --> 00:01:08,920
+think you know even including that I
+
+32
+00:01:07,360 --> 00:01:10,400
+think you're really going to enjoy this
+
+33
+00:01:08,920 --> 00:01:12,439
+but first let me tell you that this
+
+34
+00:01:10,400 --> 00:01:15,000
+episode is brought to you by a sponsor
+
+35
+00:01:12,439 --> 00:01:18,280
+very close to my heart it is the label
+
+36
+00:01:15,000 --> 00:01:21,159
+that put out my CD some kind of comedian
+
+37
+00:01:18,280 --> 00:01:22,960
+that's right standup records is proud to
+
+38
+00:01:21,159 --> 00:01:26,920
+announce the launch of their online
+
+39
+00:01:22,960 --> 00:01:29,960
+store standup crap.com where you can go
+
+40
+00:01:26,920 --> 00:01:33,399
+and buy downloads and soon CDs vinyl
+
+41
+00:01:29,960 --> 00:01:35,240
+records DVDs shirts and a wide variety
+
+42
+00:01:33,399 --> 00:01:37,200
+of other merchandise direct from one of
+
+43
+00:01:35,240 --> 00:01:41,280
+the best and most prolific comedy labels
+
+44
+00:01:37,200 --> 00:01:41,280
+out there so go visit
+
+45
+00:01:41,479 --> 00:01:48,520
+standup.on stress to you enough how
+
+46
+00:01:44,759 --> 00:01:51,840
+proud and flattered I am to be
+
+47
+00:01:48,520 --> 00:01:54,079
+presenting this sponsor Dan schle the
+
+48
+00:01:51,840 --> 00:01:56,399
+guy who runs it who started it is one of
+
+49
+00:01:54,079 --> 00:01:59,640
+the nicest kindest most supportive
+
+50
+00:01:56,399 --> 00:02:02,240
+organic true blue comedy guys out there
+
+51
+00:01:59,640 --> 00:02:04,240
+he really is and he started standup
+
+52
+00:02:02,240 --> 00:02:06,520
+records and he puts out the very best
+
+53
+00:02:04,240 --> 00:02:08,080
+comedy and he really stands by his
+
+54
+00:02:06,520 --> 00:02:10,280
+product and he believes in what he puts
+
+55
+00:02:08,080 --> 00:02:12,760
+out there and that's why everything you
+
+56
+00:02:10,280 --> 00:02:14,920
+hear on his label is set to such a high
+
+57
+00:02:12,760 --> 00:02:19,000
+standard go to
+
+58
+00:02:14,920 --> 00:02:21,800
+standup.on pick up something go buy some
+
+59
+00:02:19,000 --> 00:02:23,959
+go buy some downloads go buy my CD some
+
+60
+00:02:21,800 --> 00:02:28,120
+kind of comedian and buy other people's
+
+61
+00:02:23,959 --> 00:02:28,120
+CDs support comedy support
+
+62
+00:02:28,840 --> 00:02:33,760
+standup.on all right thank you to
+
+63
+00:02:31,360 --> 00:02:36,000
+everybody who throughout the season has
+
+64
+00:02:33,760 --> 00:02:37,760
+been praying and meditating and sending
+
+65
+00:02:36,000 --> 00:02:40,280
+Good Vibes to my friend ITA she's still
+
+66
+00:02:37,760 --> 00:02:43,599
+in the hospital she's been in and out of
+
+67
+00:02:40,280 --> 00:02:45,200
+Consciousness she's in the ICU and I
+
+68
+00:02:43,599 --> 00:02:47,000
+think it helps I think what you're doing
+
+69
+00:02:45,200 --> 00:02:49,200
+helps I appreciate it even if it doesn't
+
+70
+00:02:47,000 --> 00:02:52,000
+help it doesn't hurt so keep it up if
+
+71
+00:02:49,200 --> 00:02:53,879
+you will okay that's all I had to say up
+
+72
+00:02:52,000 --> 00:02:55,879
+front so now oh wait one more thing
+
+73
+00:02:53,879 --> 00:02:57,239
+sorry that was a tease there was a bit
+
+74
+00:02:55,879 --> 00:02:59,840
+of a
+
+75
+00:02:57,239 --> 00:03:01,959
+tease the tweaked audio you go to
+
+76
+00:02:59,840 --> 00:03:04,799
+tweaked audio.com pick up headphones
+
+77
+00:03:01,959 --> 00:03:06,200
+with the discount code mdp short for
+
+78
+00:03:04,799 --> 00:03:09,159
+modern day philosophers and it gets you
+
+79
+00:03:06,200 --> 00:03:11,760
+a third off free shipping and a lifetime
+
+80
+00:03:09,159 --> 00:03:13,200
+guarantee they're good little earbuds
+
+81
+00:03:11,760 --> 00:03:15,560
+and I'm supposed to get a kickback on
+
+82
+00:03:13,200 --> 00:03:19,200
+the back end if you do this so help me
+
+83
+00:03:15,560 --> 00:03:22,040
+out okay and now without further Ado
+
+84
+00:03:19,200 --> 00:03:27,319
+here it is the intro song and then my
+
+85
+00:03:22,040 --> 00:03:27,319
+talk with Arty Lang enjoy
+
+86
+00:03:32,000 --> 00:03:37,760
+hello and welcome to modern day
+
+87
+00:03:34,879 --> 00:03:39,599
+philosophers modern day philosophers
+
+88
+00:03:37,760 --> 00:03:42,200
+having failed to pay attention in school
+
+89
+00:03:39,599 --> 00:03:44,599
+Danny LEL now older and wiser will
+
+90
+00:03:42,200 --> 00:03:46,840
+attempt to learn basic philosophy 101
+
+91
+00:03:44,599 --> 00:03:50,000
+our young hero will be joined by today's
+
+92
+00:03:46,840 --> 00:03:53,760
+top comedians philosophers all their own
+
+93
+00:03:50,000 --> 00:03:55,680
+ladies and gentlemen here's Danny LEL
+
+94
+00:03:53,760 --> 00:03:59,200
+Mother Day
+
+95
+00:03:55,680 --> 00:04:00,239
+philosophers all right I'm here with the
+
+96
+00:03:59,200 --> 00:04:03,079
+great AR
+
+97
+00:04:00,239 --> 00:04:05,519
+I think uh that's an appropriate title
+
+98
+00:04:03,079 --> 00:04:07,120
+thanks Dan I I've been worse I've been
+
+99
+00:04:05,519 --> 00:04:09,640
+worse to a lot of people so I'll take
+
+100
+00:04:07,120 --> 00:04:11,959
+great that's fine oh you're great to me
+
+101
+00:04:09,640 --> 00:04:14,079
+sir thank you I'm grateful to be here
+
+102
+00:04:11,959 --> 00:04:15,840
+it's a beautiful view you got yeah it's
+
+103
+00:04:14,079 --> 00:04:17,519
+a lousy day we're sitting here on a day
+
+104
+00:04:15,840 --> 00:04:20,280
+of nor Easter supposed to hit or
+
+105
+00:04:17,519 --> 00:04:22,759
+something but uh yeah I got uh the whole
+
+106
+00:04:20,280 --> 00:04:24,639
+apartment's to view I'm wearing hobok
+
+107
+00:04:22,759 --> 00:04:26,080
+and in my place and I got a perfect view
+
+108
+00:04:24,639 --> 00:04:28,199
+of the so if you shut these Shades this
+
+109
+00:04:26,080 --> 00:04:30,520
+is like a $30,000 condo I think
+
+110
+00:04:28,199 --> 00:04:32,440
+Manhattan is I I've always felt this way
+
+111
+00:04:30,520 --> 00:04:35,000
+like the the city is is nicer the
+
+112
+00:04:32,440 --> 00:04:36,639
+farther away you get from it no I said
+
+113
+00:04:35,000 --> 00:04:39,400
+it to be I go you get to see New York
+
+114
+00:04:36,639 --> 00:04:42,000
+but you're not in it right I I live I
+
+115
+00:04:39,400 --> 00:04:43,720
+live in Hoboken but I work in New York I
+
+116
+00:04:42,000 --> 00:04:45,360
+think that's the best of both worlds you
+
+117
+00:04:43,720 --> 00:04:46,960
+know it really is when you're in New
+
+118
+00:04:45,360 --> 00:04:49,000
+York you really can't appreciate it cuz
+
+119
+00:04:46,960 --> 00:04:50,600
+you're in it you can't you can't see it
+
+120
+00:04:49,000 --> 00:04:52,440
+like the great pict you can see this is
+
+121
+00:04:50,600 --> 00:04:53,960
+like a postcard it is I really got lucky
+
+122
+00:04:52,440 --> 00:04:57,120
+with this I bought this place about 12
+
+123
+00:04:53,960 --> 00:04:59,280
+years ago and it it's uh right on the
+
+124
+00:04:57,120 --> 00:05:00,759
+water so I can't build in front of it I
+
+125
+00:04:59,280 --> 00:05:05,000
+love it it gets me up in the morning you
+
+126
+00:05:00,759 --> 00:05:06,479
+know we the depression I suffer from uh
+
+127
+00:05:05,000 --> 00:05:07,800
+a lot of times just gets me up and I'm
+
+128
+00:05:06,479 --> 00:05:08,960
+like all right let me get in the world
+
+129
+00:05:07,800 --> 00:05:10,919
+cuz it's not like I'm looking at St
+
+130
+00:05:08,960 --> 00:05:12,919
+Louis it's New York yeah it's like we're
+
+131
+00:05:10,919 --> 00:05:14,320
+the center of everything I'm inspired I
+
+132
+00:05:12,919 --> 00:05:16,160
+could live I would love to live like
+
+133
+00:05:14,320 --> 00:05:19,400
+this you know I my dream was always to
+
+134
+00:05:16,160 --> 00:05:20,720
+live in the Dakota you know oh okay like
+
+135
+00:05:19,400 --> 00:05:22,280
+since I was a kid I wanted to live in
+
+136
+00:05:20,720 --> 00:05:25,360
+cuz I figured cuz you heard about Lenin
+
+137
+00:05:22,280 --> 00:05:27,479
+or it's you know just cuz yeah and I I
+
+138
+00:05:25,360 --> 00:05:29,440
+always like to me like the Dakota has
+
+139
+00:05:27,479 --> 00:05:31,720
+got to be such a great like Yoko on a
+
+140
+00:05:29,440 --> 00:05:33,199
+watch her husband get murdered right in
+
+141
+00:05:31,720 --> 00:05:35,520
+front of her door there and she still
+
+142
+00:05:33,199 --> 00:05:38,039
+didn't move yeah it's
+
+143
+00:05:35,520 --> 00:05:39,759
+true it's good real estate that's how
+
+144
+00:05:38,039 --> 00:05:41,360
+great it is to live in the Dakota I
+
+145
+00:05:39,759 --> 00:05:42,520
+think if she saw her business manager
+
+146
+00:05:41,360 --> 00:05:44,880
+get killed right in front of the Dakota
+
+147
+00:05:42,520 --> 00:05:44,880
+she might have
+
+148
+00:05:45,199 --> 00:05:51,479
+moved she's like ah it's a shame but
+
+149
+00:05:49,240 --> 00:05:52,360
+yeah I mean I'm very cynical when it
+
+150
+00:05:51,479 --> 00:05:55,639
+comes to
+
+151
+00:05:52,360 --> 00:05:58,600
+Yoko yeah I don't know I me
+
+152
+00:05:55,639 --> 00:05:59,960
+guess I don't know I I guess I guess she
+
+153
+00:05:58,600 --> 00:06:01,680
+did love him I don't know I'm in the
+
+154
+00:05:59,960 --> 00:06:03,440
+other Camp I'm not I don't agree with
+
+155
+00:06:01,680 --> 00:06:08,360
+you there I've always well yeah that's a
+
+156
+00:06:03,440 --> 00:06:10,960
+better Camp to be in the Pro Yoko um Pro
+
+157
+00:06:08,360 --> 00:06:12,759
+Yoko yeah that's an odd Camp to be in
+
+158
+00:06:10,960 --> 00:06:16,039
+she was on the stern no he was on the
+
+159
+00:06:12,759 --> 00:06:18,639
+Stern Show uh he Paul mcar he was on the
+
+160
+00:06:16,039 --> 00:06:20,039
+Stern Show and uh Howard did this
+
+161
+00:06:18,639 --> 00:06:22,840
+hourlong interview with him right after
+
+162
+00:06:20,039 --> 00:06:25,680
+I got on the show in 2001 and he said
+
+163
+00:06:22,840 --> 00:06:28,280
+that he met Yoko first and he thought
+
+164
+00:06:25,680 --> 00:06:30,720
+she was just a crazy fan and as a joke
+
+165
+00:06:28,280 --> 00:06:35,000
+he sent her over to John Lenn flat as a
+
+166
+00:06:30,720 --> 00:06:36,360
+joke oh man and uh and uh 3 Days Later
+
+167
+00:06:35,000 --> 00:06:39,000
+Lennon called him up and said I met this
+
+168
+00:06:36,360 --> 00:06:42,720
+girl I'm in love with and it was
+
+169
+00:06:39,000 --> 00:06:44,800
+yok jokes on you Paul sounds like it cuz
+
+170
+00:06:42,720 --> 00:06:46,120
+now Paul is dealing every every time
+
+171
+00:06:44,800 --> 00:06:47,720
+they got to sell something to doal
+
+172
+00:06:46,120 --> 00:06:49,440
+business she wasn't there when he wrote
+
+173
+00:06:47,720 --> 00:06:50,880
+Hey Jude but he's got to deal with her
+
+174
+00:06:49,440 --> 00:06:53,759
+yeah her face is right there in the
+
+175
+00:06:50,880 --> 00:06:55,759
+office yeah that's funny you know you
+
+176
+00:06:53,759 --> 00:06:57,879
+I'll tell you why I really like Yoko I
+
+177
+00:06:55,759 --> 00:07:00,639
+think she brought the best out in John
+
+178
+00:06:57,879 --> 00:07:02,319
+artistically like The Beatles all those
+
+179
+00:07:00,639 --> 00:07:03,759
+songs are great and they're and they're
+
+180
+00:07:02,319 --> 00:07:05,000
+catchy and they're and they're really
+
+181
+00:07:03,759 --> 00:07:07,560
+wonderful but if you listen to like
+
+182
+00:07:05,000 --> 00:07:09,280
+Double Fantasy and all those you know
+
+183
+00:07:07,560 --> 00:07:11,599
+post Beatles Lenin albums I think that's
+
+184
+00:07:09,280 --> 00:07:14,800
+where you really that's where JN starts
+
+185
+00:07:11,599 --> 00:07:17,319
+to really you know be an artist his solo
+
+186
+00:07:14,800 --> 00:07:20,240
+stuff is better than McCartney's that
+
+187
+00:07:17,319 --> 00:07:22,440
+that that I will say uh and uh I don't
+
+188
+00:07:20,240 --> 00:07:25,080
+know what Yoko has to do with that but
+
+189
+00:07:22,440 --> 00:07:26,319
+you're right she was there for it so mhm
+
+190
+00:07:25,080 --> 00:07:28,720
+you think it would have happened either
+
+191
+00:07:26,319 --> 00:07:29,960
+way I don't know I don't know you're
+
+192
+00:07:28,720 --> 00:07:33,520
+right I mean it's actually excellent I
+
+193
+00:07:29,960 --> 00:07:36,599
+mean uh ex excellent uh theory that you
+
+194
+00:07:33,520 --> 00:07:39,919
+know she was there for it so therefore
+
+195
+00:07:36,599 --> 00:07:42,879
+uh she's responsible for but uh you
+
+196
+00:07:39,919 --> 00:07:44,440
+know ballot of John and Yoko all those
+
+197
+00:07:42,879 --> 00:07:46,800
+stuff I mean you know he would had to
+
+198
+00:07:44,440 --> 00:07:49,759
+find some other words that maybe rhyme
+
+199
+00:07:46,800 --> 00:07:52,039
+with Elaine if there was an Elaine
+
+200
+00:07:49,759 --> 00:07:53,919
+there but I I think he would have I
+
+201
+00:07:52,039 --> 00:07:56,639
+think he could have done that but also
+
+202
+00:07:53,919 --> 00:07:58,800
+the fact that she everybody hated her I
+
+203
+00:07:56,639 --> 00:08:01,000
+think fueled him into doing great stuff
+
+204
+00:07:58,800 --> 00:08:03,560
+like yeah the rebel in them was like
+
+205
+00:08:01,000 --> 00:08:04,840
+[ __ ] you I'm Gonna Keep dating her yeah
+
+206
+00:08:03,560 --> 00:08:06,319
+if if he would have had another girl
+
+207
+00:08:04,840 --> 00:08:09,120
+that everybody was like oh you guys are
+
+208
+00:08:06,319 --> 00:08:11,080
+adorable yeah the [ __ ] is that well
+
+209
+00:08:09,120 --> 00:08:13,440
+Ringo Ringo got the hottest chick out of
+
+210
+00:08:11,080 --> 00:08:15,720
+all of them with Barbara Bach and uh you
+
+211
+00:08:13,440 --> 00:08:19,599
+know he just kind of spends his money
+
+212
+00:08:15,720 --> 00:08:21,919
+yeah I love Ringo when yeah Ringo is uh
+
+213
+00:08:19,599 --> 00:08:24,080
+he knew how to live he knows how to live
+
+214
+00:08:21,919 --> 00:08:26,919
+he's even cleaned up at the right time
+
+215
+00:08:24,080 --> 00:08:28,639
+you know he seems happy I well that
+
+216
+00:08:26,919 --> 00:08:31,360
+brings me to I'm reading your book and
+
+217
+00:08:28,639 --> 00:08:34,120
+it's excellent it's really really I love
+
+218
+00:08:31,360 --> 00:08:36,200
+I love the way you write and uh it's
+
+219
+00:08:34,120 --> 00:08:37,760
+it's well you got to go and get it I'm
+
+220
+00:08:36,200 --> 00:08:40,200
+going to tell you this is an honest true
+
+221
+00:08:37,760 --> 00:08:42,440
+plug for people out there appreciate it
+
+222
+00:08:40,200 --> 00:08:44,800
+um Crash and Burn and it's really really
+
+223
+00:08:42,440 --> 00:08:47,880
+great and you're talking in the book
+
+224
+00:08:44,800 --> 00:08:50,839
+about davel telling you about money
+
+225
+00:08:47,880 --> 00:08:53,720
+being an addiction right now I've never
+
+226
+00:08:50,839 --> 00:08:55,839
+I haven't hit yet you know I've been had
+
+227
+00:08:53,720 --> 00:08:58,000
+this 11 years but uh I'm still I've
+
+228
+00:08:55,839 --> 00:09:00,920
+still never had money you know right
+
+229
+00:08:58,000 --> 00:09:03,120
+right so for me I think a lot about the
+
+230
+00:09:00,920 --> 00:09:05,920
+difference in like what's what is life
+
+231
+00:09:03,120 --> 00:09:09,200
+with money versus what what is life
+
+232
+00:09:05,920 --> 00:09:13,680
+now and
+
+233
+00:09:09,200 --> 00:09:16,760
+well I I must say that the I've been
+
+234
+00:09:13,680 --> 00:09:19,200
+lucky I'm 46 years old the last time I
+
+235
+00:09:16,760 --> 00:09:21,800
+did an honest days work I was
+
+236
+00:09:19,200 --> 00:09:24,079
+26 uh and that's when I started making a
+
+237
+00:09:21,800 --> 00:09:25,480
+living from Show Business and then I
+
+238
+00:09:24,079 --> 00:09:28,279
+started making really good money when I
+
+239
+00:09:25,480 --> 00:09:31,000
+was 27 because I got on Mad TV the
+
+240
+00:09:28,279 --> 00:09:33,320
+sketch show on a network and I started
+
+241
+00:09:31,000 --> 00:09:37,000
+making about 10 grand a week and about
+
+242
+00:09:33,320 --> 00:09:39,959
+400 Grand a year and I never look back
+
+243
+00:09:37,000 --> 00:09:43,680
+and uh I'm not you know wealthy wealthy
+
+244
+00:09:39,959 --> 00:09:46,240
+but I have I I've I've you know I'm I'm
+
+245
+00:09:43,680 --> 00:09:48,959
+technically a millionaire I guess and
+
+246
+00:09:46,240 --> 00:09:51,040
+it's just it certainly doesn't buy
+
+247
+00:09:48,959 --> 00:09:55,040
+happiness it doesn't come close to that
+
+248
+00:09:51,040 --> 00:09:56,920
+but what it does is it just it just
+
+249
+00:09:55,040 --> 00:09:58,680
+makes sure that the little things in
+
+250
+00:09:56,920 --> 00:10:00,680
+life aren't going to take you out
+
+251
+00:09:58,680 --> 00:10:04,000
+depression
+
+252
+00:10:00,680 --> 00:10:06,959
+uh you know if you have no money and you
+
+253
+00:10:04,000 --> 00:10:08,920
+drop a bottle of ketchup that becomes a
+
+254
+00:10:06,959 --> 00:10:10,480
+billion times worse than if you have
+
+255
+00:10:08,920 --> 00:10:13,120
+money and you drop a bottle of ketchup
+
+256
+00:10:10,480 --> 00:10:15,560
+you know like I got no money and this
+
+257
+00:10:13,120 --> 00:10:17,800
+[ __ ] ketchup on the floor you know
+
+258
+00:10:15,560 --> 00:10:19,399
+you can add I got no money to every
+
+259
+00:10:17,800 --> 00:10:21,200
+single problem you have I got no money
+
+260
+00:10:19,399 --> 00:10:23,800
+in this traffic I got no money in this
+
+261
+00:10:21,200 --> 00:10:25,560
+[ __ ] you know my I do my laundry I
+
+262
+00:10:23,800 --> 00:10:28,000
+got no money and my broad left me you
+
+263
+00:10:25,560 --> 00:10:31,480
+know but uh it just takes one more thing
+
+264
+00:10:28,000 --> 00:10:35,000
+out of the bitching session that um
+
+265
+00:10:31,480 --> 00:10:37,000
+helps you very practically you know so
+
+266
+00:10:35,000 --> 00:10:39,440
+that's how it helps it it certainly
+
+267
+00:10:37,000 --> 00:10:41,560
+doesn't ensure any sort of happiness I
+
+268
+00:10:39,440 --> 00:10:43,639
+found you know you're talking about yeah
+
+269
+00:10:41,560 --> 00:10:45,399
+sure it it helps in terms of like you
+
+270
+00:10:43,639 --> 00:10:47,480
+don't have to worry about things it it
+
+271
+00:10:45,399 --> 00:10:49,440
+helps you in that way right but what
+
+272
+00:10:47,480 --> 00:10:51,200
+about just in terms of how you relate to
+
+273
+00:10:49,440 --> 00:10:53,279
+the world is it different having money
+
+274
+00:10:51,200 --> 00:10:59,800
+do you see the world differently do you
+
+275
+00:10:53,279 --> 00:11:01,720
+see yes yes I do I I I I must say I I um
+
+276
+00:10:59,800 --> 00:11:03,480
+it's not an elitist attitude it's like
+
+277
+00:11:01,720 --> 00:11:05,600
+you just when I see
+
+278
+00:11:03,480 --> 00:11:08,160
+somebody even somebody I know really
+
+279
+00:11:05,600 --> 00:11:10,279
+well struggling when they tell me a
+
+280
+00:11:08,160 --> 00:11:12,000
+story about how they they had to take
+
+281
+00:11:10,279 --> 00:11:13,760
+two Subways and this or that the other
+
+282
+00:11:12,000 --> 00:11:16,880
+thing to get to a certain place and
+
+283
+00:11:13,760 --> 00:11:19,600
+everything I really go thank God that's
+
+284
+00:11:16,880 --> 00:11:22,040
+not me anymore and I don't say it out
+
+285
+00:11:19,600 --> 00:11:23,959
+loud cuz that would be terrible but I I
+
+286
+00:11:22,040 --> 00:11:28,360
+go thank God I don't have to do that
+
+287
+00:11:23,959 --> 00:11:31,240
+right uh and uh I I I've I haven't had
+
+288
+00:11:28,360 --> 00:11:34,279
+to do it long enough it's to the it's as
+
+289
+00:11:31,240 --> 00:11:36,360
+if I grew up rich right I didn't grow up
+
+290
+00:11:34,279 --> 00:11:39,880
+rich at all I I had you know when I
+
+291
+00:11:36,360 --> 00:11:41,680
+started I had no money uh completely
+
+292
+00:11:39,880 --> 00:11:45,120
+broke my family was practically on
+
+293
+00:11:41,680 --> 00:11:48,200
+welfare as a matter of fact and uh I my
+
+294
+00:11:45,120 --> 00:11:52,639
+mother was toiling along as a secretary
+
+295
+00:11:48,200 --> 00:11:54,240
+and um we had zero less than zero and uh
+
+296
+00:11:52,639 --> 00:11:56,800
+I don't really remember that it's been
+
+297
+00:11:54,240 --> 00:11:59,760
+so long it's 20 years removed so it's as
+
+298
+00:11:56,800 --> 00:12:02,160
+if I grew up rich and so when I [ __ ] at
+
+299
+00:11:59,760 --> 00:12:04,600
+Rich Kids I'm almost the same way I'm
+
+300
+00:12:02,160 --> 00:12:07,000
+just a 46y old rich
+
+301
+00:12:04,600 --> 00:12:10,440
+kid I'm not an 18-year-old rich kid I'm
+
+302
+00:12:07,000 --> 00:12:12,720
+a 46y old rich kid and I uh I don't
+
+303
+00:12:10,440 --> 00:12:14,600
+remember really what it was like to to
+
+304
+00:12:12,720 --> 00:12:15,920
+take to not have enough money to buy
+
+305
+00:12:14,600 --> 00:12:20,240
+another
+
+306
+00:12:15,920 --> 00:12:20,240
+CD but I talk about
+
+307
+00:12:21,000 --> 00:12:25,279
+CDs I'm old enough to where that's my
+
+308
+00:12:23,440 --> 00:12:27,199
+problem I don't talk about downloading I
+
+309
+00:12:25,279 --> 00:12:31,000
+still talk about CD does it change how
+
+310
+00:12:27,199 --> 00:12:31,000
+you relate to an audience
+
+311
+00:12:31,800 --> 00:12:36,120
+uh it can and you have to watch yourself
+
+312
+00:12:34,920 --> 00:12:38,040
+you know I mean I don't have the kind of
+
+313
+00:12:36,120 --> 00:12:41,120
+money where
+
+314
+00:12:38,040 --> 00:12:44,480
+uh you know it's totally
+
+315
+00:12:41,120 --> 00:12:46,480
+unrelatable uh like uh I'm sure Seinfeld
+
+316
+00:12:44,480 --> 00:12:49,079
+has to catch himself at times when he's
+
+317
+00:12:46,480 --> 00:12:51,440
+in front of a crowd in Ohio and he's
+
+318
+00:12:49,079 --> 00:12:52,920
+talking about the fact that you know
+
+319
+00:12:51,440 --> 00:12:55,480
+this gig they wouldn't pay for the gas
+
+320
+00:12:52,920 --> 00:12:58,040
+and his private jet and stuff like that
+
+321
+00:12:55,480 --> 00:13:00,120
+but at the same time people you know who
+
+322
+00:12:58,040 --> 00:13:01,519
+don't have a lot of money like hearing
+
+323
+00:13:00,120 --> 00:13:03,360
+about people with money like watching
+
+324
+00:13:01,519 --> 00:13:05,360
+people with money that's been proven
+
+325
+00:13:03,360 --> 00:13:07,800
+look at the [ __ ] Kardashians I guess
+
+326
+00:13:05,360 --> 00:13:10,040
+people like watching that show just cuz
+
+327
+00:13:07,800 --> 00:13:11,680
+they're they're in some way living
+
+328
+00:13:10,040 --> 00:13:14,560
+through them or jealous of them or
+
+329
+00:13:11,680 --> 00:13:16,199
+whatever so maybe you know if an
+
+330
+00:13:14,560 --> 00:13:20,279
+observation's funny enough maybe he
+
+331
+00:13:16,199 --> 00:13:21,480
+could get away with it I uh no matter
+
+332
+00:13:20,279 --> 00:13:23,320
+I'm one of those guys where I don't know
+
+333
+00:13:21,480 --> 00:13:27,199
+if this is lucky for comedy or not no
+
+334
+00:13:23,320 --> 00:13:29,720
+matter how rich I get I will never seem
+
+335
+00:13:27,199 --> 00:13:31,399
+Rich I just and I don't do that on
+
+336
+00:13:29,720 --> 00:13:33,360
+purpose I'm not proud of it like oh you
+
+337
+00:13:31,399 --> 00:13:35,519
+know you're a guy who stayed real it's I
+
+338
+00:13:33,360 --> 00:13:37,240
+have no other choice you're just a blue
+
+339
+00:13:35,519 --> 00:13:39,680
+color guy I just don't know anything
+
+340
+00:13:37,240 --> 00:13:42,000
+else I wouldn't know how
+
+341
+00:13:39,680 --> 00:13:43,399
+to I didn't go to college I had to go to
+
+342
+00:13:42,000 --> 00:13:46,120
+summer school to get out of high school
+
+343
+00:13:43,399 --> 00:13:47,800
+I I would not know how to do anything
+
+344
+00:13:46,120 --> 00:13:50,120
+else or act like anything else I'm
+
+345
+00:13:47,800 --> 00:13:52,639
+really like you know Rodney Dangerfield
+
+346
+00:13:50,120 --> 00:13:54,720
+and easy money you know less money but
+
+347
+00:13:52,639 --> 00:13:56,880
+you know same type of guy well you're
+
+348
+00:13:54,720 --> 00:13:59,480
+also in a way staying true to yourself
+
+349
+00:13:56,880 --> 00:14:01,040
+you're not pretending I swear but that's
+
+350
+00:13:59,480 --> 00:14:04,480
+not the
+
+351
+00:14:01,040 --> 00:14:06,360
+reason it's just I I I I just cuz you
+
+352
+00:14:04,480 --> 00:14:07,800
+know even pretending it would be so I
+
+353
+00:14:06,360 --> 00:14:10,000
+wouldn't know how to do it I literally
+
+354
+00:14:07,800 --> 00:14:12,120
+would not know how to do it it's like
+
+355
+00:14:10,000 --> 00:14:14,839
+Chopsticks I've never bothered learning
+
+356
+00:14:12,120 --> 00:14:17,560
+how to use chopsticks and I hate when I
+
+357
+00:14:14,839 --> 00:14:19,040
+see somebody I grew up with use them I
+
+358
+00:14:17,560 --> 00:14:21,000
+hate it I'm like when the [ __ ] did you
+
+359
+00:14:19,040 --> 00:14:22,680
+learn how to use chopsticks and why
+
+360
+00:14:21,000 --> 00:14:25,839
+would you use them instead like if we go
+
+361
+00:14:22,680 --> 00:14:27,920
+eat sushi or something to get mad I
+
+362
+00:14:25,839 --> 00:14:30,199
+always ask for a fork I don't care what
+
+363
+00:14:27,920 --> 00:14:32,600
+the waiter what the look waiter gives me
+
+364
+00:14:30,199 --> 00:14:34,360
+I don't give a [ __ ] what some [ __ ]
+
+365
+00:14:32,600 --> 00:14:37,079
+[ __ ] at the next table who's got a
+
+366
+00:14:34,360 --> 00:14:38,920
+Chanel bag what look she gives me and I
+
+367
+00:14:37,079 --> 00:14:40,480
+don't care I'm embarrassed to people I
+
+368
+00:14:38,920 --> 00:14:43,560
+i' I've had women probably stop dating
+
+369
+00:14:40,480 --> 00:14:45,639
+me because I I asked for a fork because
+
+370
+00:14:43,560 --> 00:14:47,800
+it's it's so much easier to use a
+
+371
+00:14:45,639 --> 00:14:50,320
+[ __ ] Fork it's a [ __ ] Fork over
+
+372
+00:14:47,800 --> 00:14:52,199
+Chopsticks and the only reason you use
+
+373
+00:14:50,320 --> 00:14:54,399
+those Chopsticks is to seem like okay
+
+374
+00:14:52,199 --> 00:14:56,440
+now I'm more cultured now I'm more
+
+375
+00:14:54,399 --> 00:14:58,399
+cultured and I'm not willing to give up
+
+376
+00:14:56,440 --> 00:15:00,720
+the convenience of a fork to seem more
+
+377
+00:14:58,399 --> 00:15:02,759
+cultured I'm not to me just learning how
+
+378
+00:15:00,720 --> 00:15:04,759
+to use them is you're being a [ __ ]
+
+379
+00:15:02,759 --> 00:15:06,639
+dick you're standing your ground though
+
+380
+00:15:04,759 --> 00:15:12,519
+you're not you're not backing down no
+
+381
+00:15:06,639 --> 00:15:14,519
+yeah I I I uh yeah I I I just I hate and
+
+382
+00:15:12,519 --> 00:15:15,800
+and I get mad and then I should be
+
+383
+00:15:14,519 --> 00:15:17,720
+getting mad at them they're getting mad
+
+384
+00:15:15,800 --> 00:15:19,720
+at me and that makes me Furious I'm like
+
+385
+00:15:17,720 --> 00:15:22,000
+how [ __ ] dare you I'm the one who's
+
+386
+00:15:19,720 --> 00:15:24,199
+biting my tongue when I see you not use
+
+387
+00:15:22,000 --> 00:15:25,720
+the convenience of a fork and you're
+
+388
+00:15:24,199 --> 00:15:27,680
+trying to figure that thing out it makes
+
+389
+00:15:25,720 --> 00:15:29,240
+me sick you know what I think it pisses
+
+390
+00:15:27,680 --> 00:15:31,519
+you off when people are pretending
+
+391
+00:15:29,240 --> 00:15:34,199
+around you yeah yeah well it's a yeah
+
+392
+00:15:31,519 --> 00:15:35,800
+it's it's it's right exactly exactly I
+
+393
+00:15:34,199 --> 00:15:37,399
+feel like I have to get off my chest at
+
+394
+00:15:35,800 --> 00:15:39,920
+this point that I use chopsticks cuz
+
+395
+00:15:37,399 --> 00:15:41,680
+otherwise I'm just a phony don't worry
+
+396
+00:15:39,920 --> 00:15:44,399
+about it but I've been using them since
+
+397
+00:15:41,680 --> 00:15:47,240
+I was a kid yeah that's if you learned
+
+398
+00:15:44,399 --> 00:15:48,800
+as a kid I learned but believe me the
+
+399
+00:15:47,240 --> 00:15:51,399
+neighborhood I'm from no one was using
+
+400
+00:15:48,800 --> 00:15:54,040
+Chopsticks okay everybody had a fork
+
+401
+00:15:51,399 --> 00:15:56,480
+yeah uh you know we
+
+402
+00:15:54,040 --> 00:15:58,639
+had our fathers didn't bother to figure
+
+403
+00:15:56,480 --> 00:16:02,079
+out how to you know get a job much l you
+
+404
+00:15:58,639 --> 00:16:03,399
+was up staks going back to the idea of
+
+405
+00:16:02,079 --> 00:16:06,759
+money and
+
+406
+00:16:03,399 --> 00:16:09,000
+wealth now that you've been wealthy for
+
+407
+00:16:06,759 --> 00:16:11,040
+so long is there still any fear in you
+
+408
+00:16:09,000 --> 00:16:14,120
+that you could go back or do you feel
+
+409
+00:16:11,040 --> 00:16:16,399
+pretty secure and set in all right I've
+
+410
+00:16:14,120 --> 00:16:17,560
+I'm a made man now no I'm not that's the
+
+411
+00:16:16,399 --> 00:16:19,600
+other thing there other thing that's
+
+412
+00:16:17,560 --> 00:16:21,519
+crazy about me and the other Edge I live
+
+413
+00:16:19,600 --> 00:16:24,000
+on or other Cliff I always feel I'm
+
+414
+00:16:21,519 --> 00:16:26,399
+going to fall off of is no I I don't
+
+415
+00:16:24,000 --> 00:16:27,920
+have enough money to to where I like to
+
+416
+00:16:26,399 --> 00:16:29,519
+spend and live because now I've gotten
+
+417
+00:16:27,920 --> 00:16:33,120
+used to a
+
+418
+00:16:29,519 --> 00:16:35,800
+a certain amount of cash uh and uh and a
+
+419
+00:16:33,120 --> 00:16:38,720
+certain lifestyle like uh especially the
+
+420
+00:16:35,800 --> 00:16:41,399
+weight I'm at now I can't fly anything
+
+421
+00:16:38,720 --> 00:16:45,199
+but first class if I flew coach right
+
+422
+00:16:41,399 --> 00:16:49,240
+now would be I'd want to sue somebody I
+
+423
+00:16:45,199 --> 00:16:52,440
+think it's uh offensive it's it's it's
+
+424
+00:16:49,240 --> 00:16:55,079
+oppressive uh so uh and I like nice
+
+425
+00:16:52,440 --> 00:16:56,759
+hotels I you know I don't know I just I
+
+426
+00:16:55,079 --> 00:16:59,600
+I just got used to nicer hotels like a
+
+427
+00:16:56,759 --> 00:17:01,720
+Four Seasons or a rich G and a and uh I
+
+428
+00:16:59,600 --> 00:17:02,880
+certainly was never like that any hotel
+
+429
+00:17:01,720 --> 00:17:08,079
+was cool to
+
+430
+00:17:02,880 --> 00:17:11,079
+me uh but uh I I don't have enough money
+
+431
+00:17:08,079 --> 00:17:14,400
+to where I could stop working and I
+
+432
+00:17:11,079 --> 00:17:16,959
+really want to stop working you know but
+
+433
+00:17:14,400 --> 00:17:17,919
+CH yeah in a way but show business tells
+
+434
+00:17:16,959 --> 00:17:20,799
+you when you're
+
+435
+00:17:17,919 --> 00:17:22,000
+done it's not the other way around so
+
+436
+00:17:20,799 --> 00:17:24,079
+I'm worried that that day will come
+
+437
+00:17:22,000 --> 00:17:27,959
+where it says you're done and and uh I
+
+438
+00:17:24,079 --> 00:17:30,880
+run out of cash that would be awful
+
+439
+00:17:27,959 --> 00:17:32,360
+awful it's like that that line in match
+
+440
+00:17:30,880 --> 00:17:34,640
+point you know where the guy once he
+
+441
+00:17:32,360 --> 00:17:36,280
+shoots Scarlett Johansson he goes I've
+
+442
+00:17:34,640 --> 00:17:39,000
+just become accustomed to a certain way
+
+443
+00:17:36,280 --> 00:17:43,120
+of life exactly's willing to suffer to
+
+444
+00:17:39,000 --> 00:17:44,520
+to not suffer right exactly you uh yeah
+
+445
+00:17:43,120 --> 00:17:46,760
+and and that's what's great about a
+
+446
+00:17:44,520 --> 00:17:48,559
+movie like that and you know Woody Allen
+
+447
+00:17:46,760 --> 00:17:50,320
+does that a lot in his movies where
+
+448
+00:17:48,559 --> 00:17:53,280
+someone does
+
+449
+00:17:50,320 --> 00:17:54,559
+something some uh you know usually
+
+450
+00:17:53,280 --> 00:17:56,400
+someone you never think would do
+
+451
+00:17:54,559 --> 00:17:58,960
+something like that goes to a certain
+
+452
+00:17:56,400 --> 00:18:00,679
+level to to to keep living the way
+
+453
+00:17:58,960 --> 00:18:02,840
+they're living that's like a common
+
+454
+00:18:00,679 --> 00:18:05,240
+theme and you go [ __ ] I don't know if I
+
+455
+00:18:02,840 --> 00:18:07,360
+could totally judge that person it's
+
+456
+00:18:05,240 --> 00:18:09,480
+right it's the old woman that get you
+
+457
+00:18:07,360 --> 00:18:10,880
+it's like scarl Johanson maybe she kind
+
+458
+00:18:09,480 --> 00:18:13,600
+of knew what she was getting into but
+
+459
+00:18:10,880 --> 00:18:16,520
+when the old woman goes it's like whoo
+
+460
+00:18:13,600 --> 00:18:18,400
+he's gone to the dark side yeah I wonder
+
+461
+00:18:16,520 --> 00:18:20,799
+if it sometimes I look at it like when
+
+462
+00:18:18,400 --> 00:18:23,520
+I'm being lazy sometimes I wind up doing
+
+463
+00:18:20,799 --> 00:18:26,120
+a lot more work to be lazy than if I
+
+464
+00:18:23,520 --> 00:18:28,200
+would just not be lazy right yeah no
+
+465
+00:18:26,120 --> 00:18:30,520
+exactly it's like you know organized
+
+466
+00:18:28,200 --> 00:18:32,200
+crime people you see the amount of work
+
+467
+00:18:30,520 --> 00:18:34,559
+like like if I was an organized crime
+
+468
+00:18:32,200 --> 00:18:38,640
+the first day I put in that seemed like
+
+469
+00:18:34,559 --> 00:18:40,679
+a [ __ ] I would go guys I I thinking I'm
+
+470
+00:18:38,640 --> 00:18:42,280
+going to get a job like in construct
+
+471
+00:18:40,679 --> 00:18:44,760
+like legit construction I'm going to
+
+472
+00:18:42,280 --> 00:18:46,320
+learn to actually build a deck you still
+
+473
+00:18:44,760 --> 00:18:48,480
+be working for him right cuz I wouldn't
+
+474
+00:18:46,320 --> 00:18:50,760
+have this [ __ ] piano hanging over my
+
+475
+00:18:48,480 --> 00:18:53,000
+head or to drop of getting arrested or
+
+476
+00:18:50,760 --> 00:18:54,840
+you killing me right and it's a same
+
+477
+00:18:53,000 --> 00:18:56,840
+amount of work like the first day in
+
+478
+00:18:54,840 --> 00:18:59,400
+organ if I was in the mafia that it was
+
+479
+00:18:56,840 --> 00:19:01,520
+like wow this was a [ __ ] today i' I'd
+
+480
+00:18:59,400 --> 00:19:03,280
+go this doesn't make any sense this
+
+481
+00:19:01,520 --> 00:19:06,360
+should be a this should not be at all
+
+482
+00:19:03,280 --> 00:19:08,000
+stressful you know and I feel like we
+
+483
+00:19:06,360 --> 00:19:11,440
+that it's the same thing as a comic we
+
+484
+00:19:08,000 --> 00:19:13,000
+work really hard to not work oh yeah
+
+485
+00:19:11,440 --> 00:19:15,679
+well I think we're willing to put
+
+486
+00:19:13,000 --> 00:19:19,320
+ourselves through a bunch of stress like
+
+487
+00:19:15,679 --> 00:19:21,000
+that hour on stage is stressful and you
+
+488
+00:19:19,320 --> 00:19:22,480
+you start looking at every crowd even if
+
+489
+00:19:21,000 --> 00:19:25,760
+you're doing it forever and and you
+
+490
+00:19:22,480 --> 00:19:27,080
+start to panic and look at one guy or
+
+491
+00:19:25,760 --> 00:19:30,240
+one girl she's going to hate me she's
+
+492
+00:19:27,080 --> 00:19:32,200
+going to hate me you yeah at times yeah
+
+493
+00:19:30,240 --> 00:19:33,880
+and I'm like uh because you just want to
+
+494
+00:19:32,200 --> 00:19:34,919
+get a check and get out of there and
+
+495
+00:19:33,880 --> 00:19:37,080
+you're worried they're going to hate
+
+496
+00:19:34,919 --> 00:19:39,760
+this material and will the guy pay me
+
+497
+00:19:37,080 --> 00:19:41,600
+and you know I don't know uh yeah I
+
+498
+00:19:39,760 --> 00:19:43,159
+still go through that and it's really a
+
+499
+00:19:41,600 --> 00:19:46,240
+lot of stress that builds up in your
+
+500
+00:19:43,159 --> 00:19:49,440
+stomach to where you're like yeah uh I
+
+501
+00:19:46,240 --> 00:19:51,840
+don't want nine hours of a little stress
+
+502
+00:19:49,440 --> 00:19:54,960
+and LA but I'll take the one hour of it
+
+503
+00:19:51,840 --> 00:19:56,679
+a day or one hour a week you know that's
+
+504
+00:19:54,960 --> 00:19:58,400
+one of the things I find like really
+
+505
+00:19:56,679 --> 00:19:59,240
+fascinating about you also reading the
+
+506
+00:19:58,400 --> 00:20:01,360
+book
+
+507
+00:19:59,240 --> 00:20:04,159
+that story about the Playboy Mansion
+
+508
+00:20:01,360 --> 00:20:05,720
+yeah is to me Arty and to a lot of
+
+509
+00:20:04,159 --> 00:20:08,799
+people you're one of the funniest people
+
+510
+00:20:05,720 --> 00:20:10,840
+on the planet like with that question
+
+511
+00:20:08,799 --> 00:20:11,919
+right but I feel like you're not
+
+512
+00:20:10,840 --> 00:20:14,240
+completely
+
+513
+00:20:11,919 --> 00:20:17,280
+convinced no I definitely am not
+
+514
+00:20:14,240 --> 00:20:19,039
+convinced really I I guess I don't know
+
+515
+00:20:17,280 --> 00:20:21,679
+there there's times where
+
+516
+00:20:19,039 --> 00:20:25,200
+I you know I'm definitely not someone
+
+517
+00:20:21,679 --> 00:20:27,840
+who rests on his lals i' I've I've I I I
+
+518
+00:20:25,200 --> 00:20:29,640
+you know I did for a long time I was on
+
+519
+00:20:27,840 --> 00:20:32,320
+the Stern Show four and a half hours a
+
+520
+00:20:29,640 --> 00:20:34,159
+day I was doing standup and specials a
+
+521
+00:20:32,320 --> 00:20:36,080
+book a movie writing I was trying
+
+522
+00:20:34,159 --> 00:20:38,720
+everything and now I work my ass off
+
+523
+00:20:36,080 --> 00:20:41,320
+still three hours doing a TV and radio
+
+524
+00:20:38,720 --> 00:20:43,400
+show I stand up I'm do another special
+
+525
+00:20:41,320 --> 00:20:45,120
+another book like like I put myself out
+
+526
+00:20:43,400 --> 00:20:46,679
+there I don't just like you know appear
+
+527
+00:20:45,120 --> 00:20:49,480
+once every month and say hey I'm funny
+
+528
+00:20:46,679 --> 00:20:51,640
+and leave like I try so the fact that I
+
+529
+00:20:49,480 --> 00:20:54,000
+do it so
+
+530
+00:20:51,640 --> 00:20:57,400
+much every every once in a while I have
+
+531
+00:20:54,000 --> 00:20:59,240
+a day where I go yeah today today I was
+
+532
+00:20:57,400 --> 00:21:03,919
+good today I was up there with the
+
+533
+00:20:59,240 --> 00:21:07,000
+Wittier people I know but uh normally
+
+534
+00:21:03,919 --> 00:21:09,240
+I'm disappointed in my performance as as
+
+535
+00:21:07,000 --> 00:21:11,120
+a funny person I don't know do you think
+
+536
+00:21:09,240 --> 00:21:13,440
+that's what makes you
+
+537
+00:21:11,120 --> 00:21:14,440
+great see I don't think I'm great so I
+
+538
+00:21:13,440 --> 00:21:18,080
+don't
+
+539
+00:21:14,440 --> 00:21:19,559
+know I don't know I mean true great do
+
+540
+00:21:18,080 --> 00:21:20,760
+you think it that's what makes great
+
+541
+00:21:19,559 --> 00:21:23,400
+artists in
+
+542
+00:21:20,760 --> 00:21:25,360
+general I I put it this way I've never
+
+543
+00:21:23,400 --> 00:21:28,159
+met one funny comic who thinks he's
+
+544
+00:21:25,360 --> 00:21:29,520
+funny M you know I think deep down you
+
+545
+00:21:28,159 --> 00:21:31,600
+know they know it but they don't they
+
+546
+00:21:29,520 --> 00:21:34,480
+don't really like ah that sucked this is
+
+547
+00:21:31,600 --> 00:21:37,279
+going to suck blah blah blah like if you
+
+548
+00:21:34,480 --> 00:21:40,600
+talk to dve tell you'd think he was like
+
+549
+00:21:37,279 --> 00:21:42,640
+uh an unfunny
+
+550
+00:21:40,600 --> 00:21:44,559
+dishwasher when he's really one of the
+
+551
+00:21:42,640 --> 00:21:46,640
+funniest guys who's ever lived you know
+
+552
+00:21:44,559 --> 00:21:49,400
+certainly of Our Generation but you know
+
+553
+00:21:46,640 --> 00:21:50,640
+he he hates himself and he hates what he
+
+554
+00:21:49,400 --> 00:21:53,159
+you know I was just talking to him last
+
+555
+00:21:50,640 --> 00:21:55,640
+night he feels like he hit a wall uh
+
+556
+00:21:53,159 --> 00:21:57,360
+Norm McDonald would get off stage I open
+
+557
+00:21:55,640 --> 00:21:59,960
+for Norm on the road Norm would get off
+
+558
+00:21:57,360 --> 00:22:02,000
+stage and say that suck this sucked and
+
+559
+00:21:59,960 --> 00:22:03,799
+I just watched them do you know an hour
+
+560
+00:22:02,000 --> 00:22:06,600
+and a half of some of the best standup I
+
+561
+00:22:03,799 --> 00:22:08,600
+ever saw you just don't I guess it
+
+562
+00:22:06,600 --> 00:22:11,640
+that's been a trait put it this way with
+
+563
+00:22:08,600 --> 00:22:13,400
+funny people I think I I you know I
+
+564
+00:22:11,640 --> 00:22:15,760
+think I'm the same way in a lot of ways
+
+565
+00:22:13,400 --> 00:22:17,200
+just I can't listen I put a CD out that
+
+566
+00:22:15,760 --> 00:22:20,000
+you were nice enough to let me promote
+
+567
+00:22:17,200 --> 00:22:21,400
+on your show and I can't listen to it I
+
+568
+00:22:20,000 --> 00:22:23,880
+just can't listen to it cuz it's too
+
+569
+00:22:21,400 --> 00:22:25,880
+painful I just keep thinking it it sucks
+
+570
+00:22:23,880 --> 00:22:28,360
+and then people write me and they say oh
+
+571
+00:22:25,880 --> 00:22:30,840
+I love it I love the CD and and I'm like
+
+572
+00:22:28,360 --> 00:22:32,320
+oh good yeah they love the good good but
+
+573
+00:22:30,840 --> 00:22:34,000
+if somebody else were to tell me oh this
+
+574
+00:22:32,320 --> 00:22:35,799
+suck then I'd be upset you know well
+
+575
+00:22:34,000 --> 00:22:37,559
+that's the problem with Twitter like the
+
+576
+00:22:35,799 --> 00:22:39,440
+your amount of like people that are on
+
+577
+00:22:37,559 --> 00:22:41,039
+there like some people even just to say
+
+578
+00:22:39,440 --> 00:22:43,000
+it are going to say something sucks and
+
+579
+00:22:41,039 --> 00:22:44,559
+that's why right for Comics that could
+
+580
+00:22:43,000 --> 00:22:48,440
+be deadly like that's all you're going
+
+581
+00:22:44,559 --> 00:22:52,080
+to focus on but uh uh yeah I'm the same
+
+582
+00:22:48,440 --> 00:22:54,559
+way I can't uh a matter of fact uh when
+
+583
+00:22:52,080 --> 00:22:58,600
+when my last Comedy Central special came
+
+584
+00:22:54,559 --> 00:22:59,880
+out uh I was in a a rehab that was also
+
+585
+00:22:58,600 --> 00:23:01,520
+mental institution it was like a
+
+586
+00:22:59,880 --> 00:23:04,840
+combination and there's a common area
+
+587
+00:23:01,520 --> 00:23:06,679
+where a TV is and Comedy Central was on
+
+588
+00:23:04,840 --> 00:23:08,080
+and I completely forgot and I had sold
+
+589
+00:23:06,679 --> 00:23:10,120
+it to Comedy Central so much had
+
+590
+00:23:08,080 --> 00:23:11,840
+happened in my life and we're watching
+
+591
+00:23:10,120 --> 00:23:15,640
+something on Comedy Central me and like
+
+592
+00:23:11,840 --> 00:23:17,520
+12 other people on the floor and it says
+
+593
+00:23:15,640 --> 00:23:19,080
+there's a picture of me doing standup a
+
+594
+00:23:17,520 --> 00:23:22,159
+clip and it goes coming up the world
+
+595
+00:23:19,080 --> 00:23:23,520
+premiere of Jack and Coke with Ry Lang
+
+596
+00:23:22,159 --> 00:23:26,919
+and they all looked at me like hey it's
+
+597
+00:23:23,520 --> 00:23:28,760
+your special I had no idea so I went to
+
+598
+00:23:26,919 --> 00:23:30,600
+my room and I said I can't watch watch
+
+599
+00:23:28,760 --> 00:23:32,480
+this especially in this situation I
+
+600
+00:23:30,600 --> 00:23:34,480
+can't watch it until I got up in that
+
+601
+00:23:32,480 --> 00:23:36,880
+robe that like your ass hangs out of and
+
+602
+00:23:34,480 --> 00:23:39,080
+I went I laid in my bed and you can't
+
+603
+00:23:36,880 --> 00:23:40,760
+lock your door and you got to be close
+
+604
+00:23:39,080 --> 00:23:42,159
+to the nurse station because they don't
+
+605
+00:23:40,760 --> 00:23:45,520
+want to make sure they want to make sure
+
+606
+00:23:42,159 --> 00:23:48,880
+you don't do anything and uh I overheard
+
+607
+00:23:45,520 --> 00:23:51,159
+like 15 lunatics laughing at my
+
+608
+00:23:48,880 --> 00:23:52,960
+special and I was happy they were
+
+609
+00:23:51,159 --> 00:23:54,200
+laughing but uh I would peek out every
+
+610
+00:23:52,960 --> 00:23:56,720
+once in a while and one guy was just
+
+611
+00:23:54,200 --> 00:23:58,320
+sitting there and shaking MH and I think
+
+612
+00:23:56,720 --> 00:24:01,120
+it was cuz he hadn't gotten his thorine
+
+613
+00:23:58,320 --> 00:24:03,080
+but but uh you know I'm like what's
+
+614
+00:24:01,120 --> 00:24:05,600
+what's that motherfucker's problem you
+
+615
+00:24:03,080 --> 00:24:07,200
+know and I I I couldn't bring myself to
+
+616
+00:24:05,600 --> 00:24:09,080
+watch and I said if I see even a second
+
+617
+00:24:07,200 --> 00:24:11,679
+of this just the clip they showed made
+
+618
+00:24:09,080 --> 00:24:13,880
+me want to throw up I never met Jerry
+
+619
+00:24:11,679 --> 00:24:15,559
+Seinfield but just from watching him in
+
+620
+00:24:13,880 --> 00:24:17,279
+interviews and stuff I feel like he's
+
+621
+00:24:15,559 --> 00:24:19,520
+the opposite of guys like you and me in
+
+622
+00:24:17,279 --> 00:24:23,720
+that way that he seems so confident in
+
+623
+00:24:19,520 --> 00:24:25,200
+his being funny and so yeah well when
+
+624
+00:24:23,720 --> 00:24:29,840
+you have that kind of success it's hard
+
+625
+00:24:25,200 --> 00:24:31,919
+not to seem that way you know uh
+
+626
+00:24:29,840 --> 00:24:35,720
+uh if uh you know if
+
+627
+00:24:31,919 --> 00:24:37,600
+you if if you're looking at a comedian
+
+628
+00:24:35,720 --> 00:24:38,880
+sitting there and he doesn't have a
+
+629
+00:24:37,600 --> 00:24:42,320
+smile on his face but he's wearing an
+
+630
+00:24:38,880 --> 00:24:44,360
+$8,000 sweater you go he seems confident
+
+631
+00:24:42,320 --> 00:24:45,880
+you know if they're dressed like me and
+
+632
+00:24:44,360 --> 00:24:48,279
+you were dressed like right now I think
+
+633
+00:24:45,880 --> 00:24:50,600
+they go oh wow that guy's depressed that
+
+634
+00:24:48,279 --> 00:24:52,360
+guy's suicidal this is no good no it
+
+635
+00:24:50,600 --> 00:24:54,200
+looks that's fine to me but I'm saying
+
+636
+00:24:52,360 --> 00:24:55,760
+other people might judge D I'm saying no
+
+637
+00:24:54,200 --> 00:24:59,000
+I don't judge but other people might I'm
+
+638
+00:24:55,760 --> 00:25:01,799
+not sensitive about it I'm not I figured
+
+639
+00:24:59,000 --> 00:25:05,520
+that but I uh yeah so I think he has his
+
+640
+00:25:01,799 --> 00:25:07,480
+dark times he just looks better you
+
+641
+00:25:05,520 --> 00:25:10,120
+know and when you go home and you see
+
+642
+00:25:07,480 --> 00:25:12,200
+the show that he helped create and is on
+
+643
+00:25:10,120 --> 00:25:15,080
+on for four straight hours it's hard to
+
+644
+00:25:12,200 --> 00:25:18,520
+think he's depressed yeah well you ready
+
+645
+00:25:15,080 --> 00:25:21,200
+to get into our philosopher here so Alex
+
+646
+00:25:18,520 --> 00:25:23,880
+picked out a guy for you also named Arty
+
+647
+00:25:21,200 --> 00:25:26,799
+I guess Arthur uh I have a hard time
+
+648
+00:25:23,880 --> 00:25:32,679
+pronouncing these names schopen Houser
+
+649
+00:25:26,799 --> 00:25:34,640
+Hower okay s c h o p n h a u e r and
+
+650
+00:25:32,679 --> 00:25:36,279
+Alex wrote Because of Art's new book
+
+651
+00:25:34,640 --> 00:25:38,960
+where he talks about attempting suicide
+
+652
+00:25:36,279 --> 00:25:40,720
+I picked an existential philosopher the
+
+653
+00:25:38,960 --> 00:25:45,640
+Arty Arty
+
+654
+00:25:40,720 --> 00:25:48,159
+combo so schopenhauer believes that life
+
+655
+00:25:45,640 --> 00:25:50,799
+is a blind striving meaning that the
+
+656
+00:25:48,159 --> 00:25:53,679
+only reason that it continues to exist
+
+657
+00:25:50,799 --> 00:25:56,840
+is because it feels it should human
+
+658
+00:25:53,679 --> 00:25:59,480
+morality is driven by desire desire is
+
+659
+00:25:56,840 --> 00:26:02,120
+directionless IR
+
+660
+00:25:59,480 --> 00:26:05,080
+and malignant and must therefore be
+
+661
+00:26:02,120 --> 00:26:07,760
+controlled with our duty to abstain from
+
+662
+00:26:05,080 --> 00:26:09,440
+Bad worldly pleasures and our duty to
+
+663
+00:26:07,760 --> 00:26:11,760
+our fellow
+
+664
+00:26:09,440 --> 00:26:13,640
+man I don't know if that's do you think
+
+665
+00:26:11,760 --> 00:26:16,360
+morality is driven by
+
+666
+00:26:13,640 --> 00:26:18,360
+desire
+
+667
+00:26:16,360 --> 00:26:20,880
+um
+
+668
+00:26:18,360 --> 00:26:23,039
+well it could me a couple of things you
+
+669
+00:26:20,880 --> 00:26:24,320
+know this is why philosophers to me
+
+670
+00:26:23,039 --> 00:26:25,720
+don't make any sense it's like listen to
+
+671
+00:26:24,320 --> 00:26:27,039
+a song it could mean something to them
+
+672
+00:26:25,720 --> 00:26:29,480
+and you have no idea what the [ __ ] it
+
+673
+00:26:27,039 --> 00:26:31,159
+mean like I list in a Moonlight Mile by
+
+674
+00:26:29,480 --> 00:26:32,480
+The Rolling Stones and that's a great
+
+675
+00:26:31,159 --> 00:26:35,039
+song but I don't know what the [ __ ] he's
+
+676
+00:26:32,480 --> 00:26:38,840
+talking about like you
+
+677
+00:26:35,039 --> 00:26:41,120
+know just another Moonlight Mile down
+
+678
+00:26:38,840 --> 00:26:42,240
+the road and you're sitting there going
+
+679
+00:26:41,120 --> 00:26:45,000
+I guess I know what that means but you
+
+680
+00:26:42,240 --> 00:26:46,880
+know I guess desire could be morality
+
+681
+00:26:45,000 --> 00:26:49,399
+could be driven by desire in the sense
+
+682
+00:26:46,880 --> 00:26:52,799
+that
+
+683
+00:26:49,399 --> 00:26:54,960
+um your desires could scare you so much
+
+684
+00:26:52,799 --> 00:26:58,480
+like what you really want deep down that
+
+685
+00:26:54,960 --> 00:27:00,880
+you uh you know they're bad and it's
+
+686
+00:26:58,480 --> 00:27:04,480
+it's the reason you you abstain from
+
+687
+00:27:00,880 --> 00:27:06,600
+them in a way I don't know uh or the
+
+688
+00:27:04,480 --> 00:27:09,520
+desire he's talking about might not be
+
+689
+00:27:06,600 --> 00:27:12,120
+like the dark desires we think of like
+
+690
+00:27:09,520 --> 00:27:14,520
+sexual or something but it could be the
+
+691
+00:27:12,120 --> 00:27:16,640
+desire to be good to be a good person
+
+692
+00:27:14,520 --> 00:27:19,279
+maybe that's what he means you know so
+
+693
+00:27:16,640 --> 00:27:21,679
+um I I think there's a couple angles
+
+694
+00:27:19,279 --> 00:27:23,399
+there I often wonder if desire and
+
+695
+00:27:21,679 --> 00:27:26,600
+addiction are the same
+
+696
+00:27:23,399 --> 00:27:28,240
+thing they're definitely related without
+
+697
+00:27:26,600 --> 00:27:32,120
+question you know I don't know if to
+
+698
+00:27:28,240 --> 00:27:35,399
+same thing no uh you could desire
+
+699
+00:27:32,120 --> 00:27:37,240
+something and even satisfy that desire
+
+700
+00:27:35,399 --> 00:27:42,360
+without being addicted to it happens all
+
+701
+00:27:37,240 --> 00:27:44,080
+the time uh but uh like they call people
+
+702
+00:27:42,360 --> 00:27:46,200
+sex addicts I don't know if that's real
+
+703
+00:27:44,080 --> 00:27:49,320
+like I have a desire to have sex a lot
+
+704
+00:27:46,200 --> 00:27:51,399
+and and I've at times even fulfilled
+
+705
+00:27:49,320 --> 00:27:54,240
+that desire but I don't think I'm
+
+706
+00:27:51,399 --> 00:27:55,720
+addicted to it I mean heroin is such a
+
+707
+00:27:54,240 --> 00:27:57,279
+physical addiction I mean the stuff I
+
+708
+00:27:55,720 --> 00:27:58,679
+was addicted to was such physically
+
+709
+00:27:57,279 --> 00:28:00,200
+addictive stuff that I mean there's no
+
+710
+00:27:58,679 --> 00:28:02,240
+one who
+
+711
+00:28:00,200 --> 00:28:04,039
+wouldn't I mean I think it's a small
+
+712
+00:28:02,240 --> 00:28:06,039
+percentage of people who if they tried
+
+713
+00:28:04,039 --> 00:28:08,080
+heroin for a couple straight days would
+
+714
+00:28:06,039 --> 00:28:10,120
+not become addicted to it you it's
+
+715
+00:28:08,080 --> 00:28:13,159
+almost impossible not
+
+716
+00:28:10,120 --> 00:28:15,559
+to that's why it's so scary you know
+
+717
+00:28:13,159 --> 00:28:18,159
+people ask about legalizing drugs like
+
+718
+00:28:15,559 --> 00:28:19,720
+uh they go I don't know we we should
+
+719
+00:28:18,159 --> 00:28:21,679
+legalize drugs the world would be the
+
+720
+00:28:19,720 --> 00:28:23,840
+same I'm like I don't know if I knew I
+
+721
+00:28:21,679 --> 00:28:25,600
+could go to CVS and pick up a marble
+
+722
+00:28:23,840 --> 00:28:27,679
+lights and some
+
+723
+00:28:25,600 --> 00:28:30,679
+heroin I don't know I wouldn't be here
+
+724
+00:28:27,679 --> 00:28:32,159
+right now probably it' be at CVS or
+
+725
+00:28:30,679 --> 00:28:34,720
+you'd be here but you wouldn't be here
+
+726
+00:28:32,159 --> 00:28:36,799
+or well exactly or if a guy uh is having
+
+727
+00:28:34,720 --> 00:28:38,039
+a shitty week guy who's never done
+
+728
+00:28:36,799 --> 00:28:40,080
+anything wrong in his life just having a
+
+729
+00:28:38,039 --> 00:28:42,120
+bad but have a glass of wine he's having
+
+730
+00:28:40,080 --> 00:28:44,080
+a bad week and he's at CBS he goes I
+
+731
+00:28:42,120 --> 00:28:47,279
+don't know a lot of anxiety this week uh
+
+732
+00:28:44,080 --> 00:28:49,000
+let me try heroin MH you know and couple
+
+733
+00:28:47,279 --> 00:28:53,399
+weeks later he's sucking dick for it you
+
+734
+00:28:49,000 --> 00:28:55,880
+know it's yeah do you think um your
+
+735
+00:28:53,399 --> 00:28:57,440
+perspective of reality is is changed
+
+736
+00:28:55,880 --> 00:28:59,519
+because you've been on drugs and you've
+
+737
+00:28:57,440 --> 00:29:01,360
+seen the world in a way that like I've
+
+738
+00:28:59,519 --> 00:29:03,679
+I've never seen I've never done heroin
+
+739
+00:29:01,360 --> 00:29:05,480
+or any of that cuz I'm too scared you
+
+740
+00:29:03,679 --> 00:29:06,840
+know no that's a good that's a good move
+
+741
+00:29:05,480 --> 00:29:08,679
+man if you have any addictive
+
+742
+00:29:06,840 --> 00:29:10,720
+personality at all if you've been
+
+743
+00:29:08,679 --> 00:29:12,880
+addicted to anything at all or think you
+
+744
+00:29:10,720 --> 00:29:15,640
+have do not try it
+
+745
+00:29:12,880 --> 00:29:17,240
+no yeah you'll you'll Chas it you'll
+
+746
+00:29:15,640 --> 00:29:19,279
+live with it you know but you know what
+
+747
+00:29:17,240 --> 00:29:21,679
+I watch like these uh Bill Hicks
+
+748
+00:29:19,279 --> 00:29:23,480
+documentary right where he's dropping
+
+749
+00:29:21,679 --> 00:29:26,000
+acid and it changes the way he sees the
+
+750
+00:29:23,480 --> 00:29:28,200
+world you know I'm so tempted as a comic
+
+751
+00:29:26,000 --> 00:29:29,600
+to be like man I want to I want to I
+
+752
+00:29:28,200 --> 00:29:32,120
+want to open my eyes to what they're
+
+753
+00:29:29,600 --> 00:29:34,960
+seeing like you know also like John
+
+754
+00:29:32,120 --> 00:29:36,720
+lennin and George Carlin these guys all
+
+755
+00:29:34,960 --> 00:29:38,360
+you know well Carlin has that famous
+
+756
+00:29:36,720 --> 00:29:41,080
+quote where he said the only drug that's
+
+757
+00:29:38,360 --> 00:29:43,120
+worth anything is weed he he did say he
+
+758
+00:29:41,080 --> 00:29:45,919
+used to write his act straight smoke
+
+759
+00:29:43,120 --> 00:29:48,120
+weed and then rewrite it it always got
+
+760
+00:29:45,919 --> 00:29:49,640
+funnier uh I don't know I would go with
+
+761
+00:29:48,120 --> 00:29:51,720
+the would sound like assd though I would
+
+762
+00:29:49,640 --> 00:29:54,480
+go with the odds you know most people
+
+763
+00:29:51,720 --> 00:29:57,360
+would drop assd even if they've been
+
+764
+00:29:54,480 --> 00:29:59,840
+creative at first it it it just makes
+
+765
+00:29:57,360 --> 00:30:03,440
+their lives worse worse I had a couple
+
+766
+00:29:59,840 --> 00:30:05,640
+of bad trips with it U at a Elton John
+
+767
+00:30:03,440 --> 00:30:09,120
+Eric Clapton concert at Chase stadium in
+
+768
+00:30:05,640 --> 00:30:11,080
+1992 I I dropped ass and I I was really
+
+769
+00:30:09,120 --> 00:30:14,039
+in bad shape like I was you know on the
+
+770
+00:30:11,080 --> 00:30:17,039
+top of of sha Stadium like looking down
+
+771
+00:30:14,039 --> 00:30:19,159
+thinking I could fly practically and
+
+772
+00:30:17,039 --> 00:30:20,679
+they had my buddies had to take me home
+
+773
+00:30:19,159 --> 00:30:22,519
+you know it didn't make me
+
+774
+00:30:20,679 --> 00:30:26,760
+funnier but you know you got those
+
+775
+00:30:22,519 --> 00:30:28,799
+stories like the Sid Barrett uh from the
+
+776
+00:30:26,760 --> 00:30:30,679
+the Pink Floyd you know getting badass
+
+777
+00:30:28,799 --> 00:30:32,279
+and and he was real creative it didn't
+
+778
+00:30:30,679 --> 00:30:34,320
+help him I don't know I guess it's it's
+
+779
+00:30:32,279 --> 00:30:37,760
+different for everybody but I think it
+
+780
+00:30:34,320 --> 00:30:39,880
+helps with music more than it would
+
+781
+00:30:37,760 --> 00:30:43,039
+comedy I think Hicks
+
+782
+00:30:39,880 --> 00:30:44,960
+uh Bill Hicks uh I I don't know I think
+
+783
+00:30:43,039 --> 00:30:46,799
+he would have been that funny anyway and
+
+784
+00:30:44,960 --> 00:30:49,240
+he would have had those thoughts anyway
+
+785
+00:30:46,799 --> 00:30:50,840
+you know I I do so you don't think drugs
+
+786
+00:30:49,240 --> 00:30:52,440
+opened your eyes up to a different kind
+
+787
+00:30:50,840 --> 00:30:55,840
+of world than the one I
+
+788
+00:30:52,440 --> 00:30:58,600
+see yes yes but I'm saying it's not
+
+789
+00:30:55,840 --> 00:31:00,880
+necessarily a better one and it's not
+
+790
+00:30:58,600 --> 00:31:03,279
+necessarily one that'll make you more
+
+791
+00:31:00,880 --> 00:31:05,000
+creative or funnier it's different
+
+792
+00:31:03,279 --> 00:31:06,799
+that's for sure but I don't know if it's
+
+793
+00:31:05,000 --> 00:31:11,679
+better what's the main
+
+794
+00:31:06,799 --> 00:31:13,799
+difference well uh why you think uh
+
+795
+00:31:11,679 --> 00:31:15,720
+creatively it might help his risk you're
+
+796
+00:31:13,799 --> 00:31:17,760
+you're willing to take a lot more risk
+
+797
+00:31:15,720 --> 00:31:19,880
+that's why you he these drummers talk
+
+798
+00:31:17,760 --> 00:31:22,399
+about being on smack that's why
+
+799
+00:31:19,880 --> 00:31:24,159
+musically it might be better uh like
+
+800
+00:31:22,399 --> 00:31:26,000
+Ginger Baker talks about heroin he's
+
+801
+00:31:24,159 --> 00:31:28,760
+like when you're on heroin you'll take
+
+802
+00:31:26,000 --> 00:31:30,960
+more risks Charlie Parker with jazz like
+
+803
+00:31:28,760 --> 00:31:34,240
+he he you know the only way to get
+
+804
+00:31:30,960 --> 00:31:36,679
+better was to risk something and
+
+805
+00:31:34,240 --> 00:31:39,200
+musically music has a better pace for
+
+806
+00:31:36,679 --> 00:31:42,159
+what you see when you're uh [ __ ] up
+
+807
+00:31:39,200 --> 00:31:44,240
+and uh and if you're on dope you don't
+
+808
+00:31:42,159 --> 00:31:45,919
+care so you'll risk something and in
+
+809
+00:31:44,240 --> 00:31:48,399
+that risk you might create something
+
+810
+00:31:45,919 --> 00:31:52,200
+amazing with the drums or the trumpet or
+
+811
+00:31:48,399 --> 00:31:55,039
+guitar you know uh but with
+
+812
+00:31:52,200 --> 00:31:57,679
+comedy uh it needs to be more
+
+813
+00:31:55,039 --> 00:32:00,919
+controlled you know it's it's it's fun
+
+814
+00:31:57,679 --> 00:32:02,919
+to take a risk but it can't be as as
+
+815
+00:32:00,919 --> 00:32:07,200
+crazy as
+
+816
+00:32:02,919 --> 00:32:08,919
+uh as music like like uh comedy is more
+
+817
+00:32:07,200 --> 00:32:11,639
+like baseball it's more like a baseball
+
+818
+00:32:08,919 --> 00:32:14,120
+skill it's more like you know all the
+
+819
+00:32:11,639 --> 00:32:17,240
+adrenaline in the world can't make
+
+820
+00:32:14,120 --> 00:32:19,320
+you better at baseball but it can help
+
+821
+00:32:17,240 --> 00:32:20,600
+you in basketball you like in basketball
+
+822
+00:32:19,320 --> 00:32:22,399
+you got a lot of you can win a game
+
+823
+00:32:20,600 --> 00:32:24,039
+through sheer adrenaline like I'm just
+
+824
+00:32:22,399 --> 00:32:26,279
+pumped up right now but baseball you got
+
+825
+00:32:24,039 --> 00:32:28,399
+to calm down and hit the ball and catch
+
+826
+00:32:26,279 --> 00:32:30,760
+the ball you got to it's more and that's
+
+827
+00:32:28,399 --> 00:32:33,679
+what comedy is and that's why I think
+
+828
+00:32:30,760 --> 00:32:40,600
+drugs could actually hurt it
+
+829
+00:32:33,679 --> 00:32:40,600
+um but I think with music it might help
+
+830
+00:32:40,880 --> 00:32:46,000
+comedians it can make you take risks and
+
+831
+00:32:43,200 --> 00:32:47,760
+make it way worse and make it just sound
+
+832
+00:32:46,000 --> 00:32:51,039
+stupid it's got to be more logical it's
+
+833
+00:32:47,760 --> 00:32:52,639
+more of a fine art you know well I'll
+
+834
+00:32:51,039 --> 00:32:55,799
+give you a little background on our guy
+
+835
+00:32:52,639 --> 00:32:59,039
+here he lived from 1788 to
+
+836
+00:32:55,799 --> 00:33:02,880
+1860 well that definitely is yeah you
+
+837
+00:32:59,039 --> 00:33:04,080
+know says a lot times are different yeah
+
+838
+00:33:02,880 --> 00:33:06,919
+Arthur
+
+839
+00:33:04,080 --> 00:33:11,320
+schopen was a German philosopher best
+
+840
+00:33:06,919 --> 00:33:13,200
+known for his book The World As will and
+
+841
+00:33:11,320 --> 00:33:15,960
+representation in which he claimed that
+
+842
+00:33:13,200 --> 00:33:18,200
+our world is driven by a continually
+
+843
+00:33:15,960 --> 00:33:19,919
+dissatisfied will well that's what
+
+844
+00:33:18,200 --> 00:33:23,039
+Carlin was always talking about sure
+
+845
+00:33:19,919 --> 00:33:24,840
+yeah yeah continually seeking
+
+846
+00:33:23,039 --> 00:33:27,480
+satisfaction and that's what you were
+
+847
+00:33:24,840 --> 00:33:29,840
+just saying a minute ago yeah you uh you
+
+848
+00:33:27,480 --> 00:33:32,120
+know it just never
+
+849
+00:33:29,840 --> 00:33:34,240
+happens it just it just never you never
+
+850
+00:33:32,120 --> 00:33:36,600
+get there you can never be satisfied you
+
+851
+00:33:34,240 --> 00:33:38,760
+could be temporarily satisfied now it
+
+852
+00:33:36,600 --> 00:33:40,440
+could yeah it could happen I like the
+
+853
+00:33:38,760 --> 00:33:43,240
+first time I tried ecstasy I'll never
+
+854
+00:33:40,440 --> 00:33:45,840
+forget that I I was like God they
+
+855
+00:33:43,240 --> 00:33:47,880
+perfected drugs every feeling you want
+
+856
+00:33:45,840 --> 00:33:49,559
+in one pill heroin coke and I walked
+
+857
+00:33:47,880 --> 00:33:51,799
+down the street I walked to Manhattan
+
+858
+00:33:49,559 --> 00:33:54,240
+like 40 blocks I hugged homeless guys I
+
+859
+00:33:51,799 --> 00:33:56,480
+was like hey buddy come here shake my
+
+860
+00:33:54,240 --> 00:33:59,039
+hand let's take a picture like you know
+
+861
+00:33:56,480 --> 00:34:01,519
+what and uh and I've been chasing that
+
+862
+00:33:59,039 --> 00:34:02,840
+High ever since never came back in a way
+
+863
+00:34:01,519 --> 00:34:05,440
+life's like that and if you've been
+
+864
+00:34:02,840 --> 00:34:07,000
+exposed to that once and you wake up
+
+865
+00:34:05,440 --> 00:34:08,679
+like if you've done heroin and you see
+
+866
+00:34:07,000 --> 00:34:10,480
+how high you can get from heroin how
+
+867
+00:34:08,679 --> 00:34:13,760
+great that feels waking up in the
+
+868
+00:34:10,480 --> 00:34:16,359
+morning and going oh my God this is
+
+869
+00:34:13,760 --> 00:34:18,240
+it I might feel a little better after a
+
+870
+00:34:16,359 --> 00:34:20,000
+shower but it's not going to be like I
+
+871
+00:34:18,240 --> 00:34:21,159
+was on heroin you know that's the same
+
+872
+00:34:20,000 --> 00:34:23,599
+thing as those
+
+873
+00:34:21,159 --> 00:34:24,800
+hotels exactly it's hard to go back
+
+874
+00:34:23,599 --> 00:34:28,079
+you're right it's hard that's the whole
+
+875
+00:34:24,800 --> 00:34:29,679
+thing it's hard to go back um he was
+
+876
+00:34:28,079 --> 00:34:31,720
+influenced by Eastern thought he
+
+877
+00:34:29,679 --> 00:34:34,639
+maintained that the truth was
+
+878
+00:34:31,720 --> 00:34:36,919
+recognized by the sages of India
+
+879
+00:34:34,639 --> 00:34:40,919
+consequently his solutions to suffering
+
+880
+00:34:36,919 --> 00:34:44,079
+were similar to those of verdic and
+
+881
+00:34:40,919 --> 00:34:46,560
+Buddhist thinkers his faith in
+
+882
+00:34:44,079 --> 00:34:49,200
+transcendental idealy I don't know what
+
+883
+00:34:46,560 --> 00:34:52,800
+that is I guess neither led him to
+
+884
+00:34:49,200 --> 00:34:55,440
+accept atheism and learn from Christian
+
+885
+00:34:52,800 --> 00:34:58,680
+philosophy what do you think do about
+
+886
+00:34:55,440 --> 00:35:03,400
+God and well you know I was brought up
+
+887
+00:34:58,680 --> 00:35:05,720
+Roman Catholic and I'm certainly at the
+
+888
+00:35:03,400 --> 00:35:06,680
+point where I think that's almost
+
+889
+00:35:05,720 --> 00:35:09,200
+complete
+
+890
+00:35:06,680 --> 00:35:13,400
+[ __ ] but
+
+891
+00:35:09,200 --> 00:35:16,040
+um uh I don't know I I I I think the
+
+892
+00:35:13,400 --> 00:35:18,240
+best argument for there being some sort
+
+893
+00:35:16,040 --> 00:35:20,960
+of higher power or something out there
+
+894
+00:35:18,240 --> 00:35:23,680
+that's bigger than us is you know how
+
+895
+00:35:20,960 --> 00:35:25,800
+the [ __ ] did we go from mud and sticks
+
+896
+00:35:23,680 --> 00:35:27,320
+to to the city I'm looking at right now
+
+897
+00:35:25,800 --> 00:35:29,359
+in New York I don't know how that
+
+898
+00:35:27,320 --> 00:35:31,000
+happened how does that happen without
+
+899
+00:35:29,359 --> 00:35:33,240
+some sort of guidance from a higher
+
+900
+00:35:31,000 --> 00:35:35,480
+being that we might even know is guiding
+
+901
+00:35:33,240 --> 00:35:38,400
+us
+
+902
+00:35:35,480 --> 00:35:41,160
+uh was there a Jesus maybe there was a
+
+903
+00:35:38,400 --> 00:35:44,480
+guy was he a Son of God I doubt
+
+904
+00:35:41,160 --> 00:35:46,560
+it what is God I have no idea but I just
+
+905
+00:35:44,480 --> 00:35:48,800
+know there might be something out
+
+906
+00:35:46,560 --> 00:35:49,800
+there that there's enough proof there
+
+907
+00:35:48,800 --> 00:35:51,440
+might be something out there to the
+
+908
+00:35:49,800 --> 00:35:54,000
+point where I'm scared [ __ ] of it put it
+
+909
+00:35:51,440 --> 00:35:55,720
+that way yeah yeah something scares me
+
+910
+00:35:54,000 --> 00:35:58,280
+do you ever
+
+911
+00:35:55,720 --> 00:36:02,079
+pray I have yeah
+
+912
+00:35:58,280 --> 00:36:04,720
+uh but only in horrible situations but I
+
+913
+00:36:02,079 --> 00:36:07,359
+have I to admit I have it and but in
+
+914
+00:36:04,720 --> 00:36:10,720
+really bad situations like you know
+
+915
+00:36:07,359 --> 00:36:13,400
+uh I was in jail I prayed every night in
+
+916
+00:36:10,720 --> 00:36:17,720
+jail I was in jail for a week uh you
+
+917
+00:36:13,400 --> 00:36:19,599
+know and uh I'm still uh I'm still an
+
+918
+00:36:17,720 --> 00:36:23,160
+ass virgin so that worked I guess I
+
+919
+00:36:19,599 --> 00:36:24,880
+don't know but I I I I don't know I it's
+
+920
+00:36:23,160 --> 00:36:26,160
+that that's a complicated question
+
+921
+00:36:24,880 --> 00:36:29,319
+obviously the people been trying to
+
+922
+00:36:26,160 --> 00:36:31,560
+figure out forever uh people far smarter
+
+923
+00:36:29,319 --> 00:36:33,880
+than me I don't know but I know there's
+
+924
+00:36:31,560 --> 00:36:36,240
+enough of proof here that I'm scared of
+
+925
+00:36:33,880 --> 00:36:37,920
+something else out there do you think we
+
+926
+00:36:36,240 --> 00:36:41,599
+have
+
+927
+00:36:37,920 --> 00:36:43,200
+souls yes absolutely but I believe they
+
+928
+00:36:41,599 --> 00:36:45,839
+could be taken
+
+929
+00:36:43,200 --> 00:36:48,160
+away I believe every kid has one that's
+
+930
+00:36:45,839 --> 00:36:50,280
+sort of pure for a while but I I believe
+
+931
+00:36:48,160 --> 00:36:53,160
+they can be taken away pretty
+
+932
+00:36:50,280 --> 00:36:55,480
+quickly most people have them taken away
+
+933
+00:36:53,160 --> 00:36:58,440
+you think you can get them
+
+934
+00:36:55,480 --> 00:37:01,160
+back not the whole thing
+
+935
+00:36:58,440 --> 00:37:03,440
+you can get a piece of it back not the
+
+936
+00:37:01,160 --> 00:37:05,680
+whole thing you're just never as you're
+
+937
+00:37:03,440 --> 00:37:07,720
+never as happy as you were when you were
+
+938
+00:37:05,680 --> 00:37:09,200
+8 years old just jumping around like an
+
+939
+00:37:07,720 --> 00:37:11,480
+idiot you know it's
+
+940
+00:37:09,200 --> 00:37:13,720
+like I think that's the original high
+
+941
+00:37:11,480 --> 00:37:15,400
+that we're all chasing oh God yeah yeah
+
+942
+00:37:13,720 --> 00:37:16,720
+I think Brian rean has a bit where he's
+
+943
+00:37:15,400 --> 00:37:18,160
+like you know you're six years old
+
+944
+00:37:16,720 --> 00:37:19,560
+you're jumping around the backyard
+
+945
+00:37:18,160 --> 00:37:21,280
+you're having fun then your mother goes
+
+946
+00:37:19,560 --> 00:37:22,440
+hey come here you got to stop doing that
+
+947
+00:37:21,280 --> 00:37:23,720
+you got to go to school and you go to
+
+948
+00:37:22,440 --> 00:37:25,560
+school and everything gets [ __ ] up and
+
+949
+00:37:23,720 --> 00:37:26,839
+like oh why don't can I just stand back
+
+950
+00:37:25,560 --> 00:37:29,920
+here and just keep jumping around like
+
+951
+00:37:26,839 --> 00:37:29,920
+an idiot oh you
+
+952
+00:37:30,640 --> 00:37:35,520
+can't it's so true right I always I
+
+953
+00:37:33,760 --> 00:37:37,520
+always said why don't you just let kids
+
+954
+00:37:35,520 --> 00:37:39,839
+be kids why do you have to let them work
+
+955
+00:37:37,520 --> 00:37:43,119
+later on or whatever it is and that goes
+
+956
+00:37:39,839 --> 00:37:45,680
+back to the money question eventually
+
+957
+00:37:43,119 --> 00:37:46,760
+everybody [ __ ] needs money that's why
+
+958
+00:37:45,680 --> 00:37:48,680
+you go to
+
+959
+00:37:46,760 --> 00:37:51,000
+school that's why you have to stop
+
+960
+00:37:48,680 --> 00:37:52,400
+jumping around because the backyard
+
+961
+00:37:51,000 --> 00:37:53,640
+you're jumping around didn't cost money
+
+962
+00:37:52,400 --> 00:37:54,839
+the clothes you're jumping around then
+
+963
+00:37:53,640 --> 00:37:58,000
+cost money when I keep jumping around
+
+964
+00:37:54,839 --> 00:37:59,680
+like an idiot you now some people can
+
+965
+00:37:58,000 --> 00:38:00,800
+like pish H never stopped jumping around
+
+966
+00:37:59,680 --> 00:38:03,319
+like an
+
+967
+00:38:00,800 --> 00:38:05,040
+idiot and everyone resents her for it
+
+968
+00:38:03,319 --> 00:38:06,920
+yeah I know it's like why be doing the
+
+969
+00:38:05,040 --> 00:38:09,160
+exact same [ __ ] thing maybe it's
+
+970
+00:38:06,920 --> 00:38:11,359
+jealousy maybe we of course it is of
+
+971
+00:38:09,160 --> 00:38:13,520
+course it is we all just want to jump
+
+972
+00:38:11,359 --> 00:38:15,880
+around like be way worse than her all
+
+973
+00:38:13,520 --> 00:38:19,640
+right at age 25 he published his
+
+974
+00:38:15,880 --> 00:38:22,359
+doctoral dissertation on the four-fold
+
+975
+00:38:19,640 --> 00:38:24,920
+root of the principle of sufficient
+
+976
+00:38:22,359 --> 00:38:27,960
+reason in which he exclaimed the four
+
+977
+00:38:24,920 --> 00:38:30,680
+distinct aspects of experience
+
+978
+00:38:27,960 --> 00:38:34,560
+in the phenomenal World consequently
+
+979
+00:38:30,680 --> 00:38:36,599
+he's been influential in the history of
+
+980
+00:38:34,560 --> 00:38:40,520
+phenomenology he has influenced many
+
+981
+00:38:36,599 --> 00:38:43,599
+thinkers including nii Wagner Ludwick
+
+982
+00:38:40,520 --> 00:38:45,800
+and then names a bunch of other ones and
+
+983
+00:38:43,599 --> 00:38:47,839
+that's it that's our that's our dude
+
+984
+00:38:45,800 --> 00:38:49,200
+yeah so uh do you want to read some
+
+985
+00:38:47,839 --> 00:38:51,920
+quotes from him and we'll see what we
+
+986
+00:38:49,200 --> 00:38:53,319
+make sure I think there's three here
+
+987
+00:38:51,920 --> 00:38:56,400
+that made me think of that Woody Allen
+
+988
+00:38:53,319 --> 00:38:59,640
+joke and crimes and misdemeanor nii this
+
+989
+00:38:56,400 --> 00:39:02,760
+nii who whose theory is we just going to
+
+990
+00:38:59,640 --> 00:39:03,839
+keep living the same life over and over
+
+991
+00:39:02,760 --> 00:39:05,680
+that's great that means you got to sit
+
+992
+00:39:03,839 --> 00:39:08,560
+through ice capades
+
+993
+00:39:05,680 --> 00:39:11,200
+again I love that that's true okay
+
+994
+00:39:08,560 --> 00:39:13,000
+here's a here's a quote from they tell
+
+995
+00:39:11,200 --> 00:39:15,560
+us that suicide is the greatest piece of
+
+996
+00:39:13,000 --> 00:39:17,240
+cowardice that suicide is wrong when it
+
+997
+00:39:15,560 --> 00:39:19,440
+is quite obvious that there is nothing
+
+998
+00:39:17,240 --> 00:39:22,160
+in the world to which Every Man Has a
+
+999
+00:39:19,440 --> 00:39:24,760
+more unsatiable title than to his own
+
+1000
+00:39:22,160 --> 00:39:24,760
+life and
+
+1001
+00:39:25,280 --> 00:39:30,160
+person I guess you know exactly right
+
+1002
+00:39:28,240 --> 00:39:32,440
+it's your life to to live and to take
+
+1003
+00:39:30,160 --> 00:39:34,920
+when you want though right yeah I guess
+
+1004
+00:39:32,440 --> 00:39:37,119
+why do you think people uh get mad at
+
+1005
+00:39:34,920 --> 00:39:39,319
+people for committing suicide or trying
+
+1006
+00:39:37,119 --> 00:39:40,760
+to commit suicide you think it has to do
+
+1007
+00:39:39,319 --> 00:39:42,079
+with taking risk because how it affects
+
+1008
+00:39:40,760 --> 00:39:44,440
+the people they
+
+1009
+00:39:42,079 --> 00:39:45,760
+love how it affects the people they love
+
+1010
+00:39:44,440 --> 00:39:48,400
+they say well how could you do that to
+
+1011
+00:39:45,760 --> 00:39:50,960
+the people you love it's a car I say
+
+1012
+00:39:48,400 --> 00:39:54,160
+look what I'm doing to them while I'm
+
+1013
+00:39:50,960 --> 00:39:55,599
+here my argument is it's going to be way
+
+1014
+00:39:54,160 --> 00:39:58,480
+worse if I stay here as far as I'm
+
+1015
+00:39:55,599 --> 00:40:00,640
+concerned I'm trying to help him out
+
+1016
+00:39:58,480 --> 00:40:02,359
+but death is death really why do people
+
+1017
+00:40:00,640 --> 00:40:04,720
+get more upset if you take it away than
+
+1018
+00:40:02,359 --> 00:40:06,599
+if you know it comes another another way
+
+1019
+00:40:04,720 --> 00:40:09,960
+because they the whole theory that life
+
+1020
+00:40:06,599 --> 00:40:11,680
+is so precious life is a precious gift
+
+1021
+00:40:09,960 --> 00:40:14,000
+you know talk to a crackhead [ __ ]
+
+1022
+00:40:11,680 --> 00:40:16,480
+himself in Thompson Square Park at 4 in
+
+1023
+00:40:14,000 --> 00:40:18,839
+the morning on a February night it's not
+
+1024
+00:40:16,480 --> 00:40:21,640
+a precious gift to that guy it's gone
+
+1025
+00:40:18,839 --> 00:40:24,480
+horribly wrong yeah you know do you
+
+1026
+00:40:21,640 --> 00:40:27,400
+value life more since your suicide
+
+1027
+00:40:24,480 --> 00:40:29,760
+attempt yeah sure but because I was was
+
+1028
+00:40:27,400 --> 00:40:32,160
+able to bounce back and and and I'm so
+
+1029
+00:40:29,760 --> 00:40:33,839
+lucky that my career came back and but
+
+1030
+00:40:32,160 --> 00:40:36,800
+you know without
+
+1031
+00:40:33,839 --> 00:40:38,920
+this ability to to make some money and
+
+1032
+00:40:36,800 --> 00:40:41,079
+to to have a career and do stuff that I
+
+1033
+00:40:38,920 --> 00:40:43,599
+like I don't know what I'd feel I don't
+
+1034
+00:40:41,079 --> 00:40:46,119
+know what I'd feel if I was a TGI
+
+1035
+00:40:43,599 --> 00:40:47,760
+Fridays right now waitering for being
+
+1036
+00:40:46,119 --> 00:40:49,880
+forced to sing Happy Birthday to some
+
+1037
+00:40:47,760 --> 00:40:51,800
+[ __ ] who just cuz he bought an extra
+
+1038
+00:40:49,880 --> 00:40:53,480
+piece of cheesecake I'd be I don't know
+
+1039
+00:40:51,800 --> 00:40:57,480
+what I'd be what what do you think is
+
+1040
+00:40:53,480 --> 00:40:57,480
+the greatest part of life
+
+1041
+00:41:00,560 --> 00:41:04,800
+I guess love I guess I guess the feeling
+
+1042
+00:41:02,760 --> 00:41:06,720
+that I if you actually have a connection
+
+1043
+00:41:04,800 --> 00:41:08,920
+with somebody and you feel my God I'm
+
+1044
+00:41:06,720 --> 00:41:08,920
+not
+
+1045
+00:41:09,440 --> 00:41:13,599
+alone the the rare feeling where you go
+
+1046
+00:41:11,680 --> 00:41:16,200
+I'm truly not
+
+1047
+00:41:13,599 --> 00:41:17,920
+alone and loneliness is a is a feeling
+
+1048
+00:41:16,200 --> 00:41:20,520
+that's that that happens more but that
+
+1049
+00:41:17,920 --> 00:41:23,880
+rare feeling where you go I have a
+
+1050
+00:41:20,520 --> 00:41:26,200
+connection with somebody and you
+
+1051
+00:41:23,880 --> 00:41:27,920
+know I'm not alone it doesn't have to be
+
+1052
+00:41:26,200 --> 00:41:29,599
+sexually it doesn't have to be woman or
+
+1053
+00:41:27,920 --> 00:41:31,760
+could be like a guy that you friends
+
+1054
+00:41:29,599 --> 00:41:34,800
+with you
+
+1055
+00:41:31,760 --> 00:41:37,280
+know usually abroad just connecting
+
+1056
+00:41:34,800 --> 00:41:41,240
+connecting with somebody
+
+1057
+00:41:37,280 --> 00:41:44,720
+MH uh all right man can do what he Wills
+
+1058
+00:41:41,240 --> 00:41:44,720
+but he cannot will what he
+
+1059
+00:41:47,319 --> 00:41:51,680
+Wills that's a tough
+
+1060
+00:41:49,520 --> 00:41:53,680
+one you can't I think it's saying you
+
+1061
+00:41:51,680 --> 00:41:56,720
+can't control your desire you can do
+
+1062
+00:41:53,680 --> 00:41:58,280
+what you desire but you can't control
+
+1063
+00:41:56,720 --> 00:42:01,280
+what you desire desire you desire what
+
+1064
+00:41:58,280 --> 00:42:04,079
+you desire in a way but I don't know if
+
+1065
+00:42:01,280 --> 00:42:07,560
+Will and desire are really the same yeah
+
+1066
+00:42:04,079 --> 00:42:11,680
+well it can be seems
+
+1067
+00:42:07,560 --> 00:42:14,720
+like I think you can't will something to
+
+1068
+00:42:11,680 --> 00:42:16,800
+happen but if it happens to happen you
+
+1069
+00:42:14,720 --> 00:42:18,839
+you're able to do it you're able to deal
+
+1070
+00:42:16,800 --> 00:42:20,839
+with it I think that's what it means
+
+1071
+00:42:18,839 --> 00:42:24,520
+that makes sense I have no
+
+1072
+00:42:20,839 --> 00:42:26,720
+idea nice one here compassion is the
+
+1073
+00:42:24,520 --> 00:42:28,000
+basis of morality that I completely
+
+1074
+00:42:26,720 --> 00:42:30,599
+agree with
+
+1075
+00:42:28,000 --> 00:42:33,079
+that I completely agree with if you have
+
+1076
+00:42:30,599 --> 00:42:35,920
+a if you have a lack of compassion you
+
+1077
+00:42:33,079 --> 00:42:38,119
+can't be a good person you have to have
+
+1078
+00:42:35,920 --> 00:42:40,200
+compassion you have to have guilt you
+
+1079
+00:42:38,119 --> 00:42:44,839
+have to
+
+1080
+00:42:40,200 --> 00:42:44,839
+have uh you
+
+1081
+00:42:45,000 --> 00:42:51,210
+know a feeling of
+
+1082
+00:42:48,280 --> 00:42:53,200
+of not wanting something to happen to
+
+1083
+00:42:51,210 --> 00:42:57,319
+[Music]
+
+1084
+00:42:53,200 --> 00:42:59,720
+you so you don't do it to somebody else
+
+1085
+00:42:57,319 --> 00:43:03,119
+and uh if you see it happening to
+
+1086
+00:42:59,720 --> 00:43:05,800
+somebody else you know you want to help
+
+1087
+00:43:03,119 --> 00:43:08,240
+them absolutely without compassion there
+
+1088
+00:43:05,800 --> 00:43:11,079
+would be morality wouldn't exist I agree
+
+1089
+00:43:08,240 --> 00:43:14,480
+with that you know what what do you
+
+1090
+00:43:11,079 --> 00:43:17,280
+think how do you define
+
+1091
+00:43:14,480 --> 00:43:21,760
+compassion like what makes someone very
+
+1092
+00:43:17,280 --> 00:43:21,760
+having guilt over something like
+
+1093
+00:43:22,079 --> 00:43:27,839
+um uh if
+
+1094
+00:43:25,839 --> 00:43:31,319
+uh if you if you
+
+1095
+00:43:27,839 --> 00:43:34,000
+see I don't know if you see a guy on the
+
+1096
+00:43:31,319 --> 00:43:37,359
+street you know and most New Yorkers are
+
+1097
+00:43:34,000 --> 00:43:37,359
+cynical if you see a guy begging for
+
+1098
+00:43:38,480 --> 00:43:44,359
+money and he's got all his arms and legs
+
+1099
+00:43:42,200 --> 00:43:46,280
+and he looks ample body like he could
+
+1100
+00:43:44,359 --> 00:43:50,319
+get a
+
+1101
+00:43:46,280 --> 00:43:52,000
+job I don't know if I'd be so fast to
+
+1102
+00:43:50,319 --> 00:43:55,280
+give that guy money but if I see a guy
+
+1103
+00:43:52,000 --> 00:43:55,280
+who's clearly has no
+
+1104
+00:43:55,559 --> 00:44:02,599
+legs I I I I what I do is I instead of
+
+1105
+00:43:59,760 --> 00:44:04,839
+giving a bunch of guys ones I save up
+
+1106
+00:44:02,599 --> 00:44:06,640
+and I might give that guy a 50 yeah I
+
+1107
+00:44:04,839 --> 00:44:08,960
+guess that's why Eddie Murphy did it in
+
+1108
+00:44:06,640 --> 00:44:10,280
+uh in trading places yeah but I believe
+
+1109
+00:44:08,960 --> 00:44:11,960
+me I checked there's no way they could
+
+1110
+00:44:10,280 --> 00:44:13,760
+totally hide that I I know the scene
+
+1111
+00:44:11,960 --> 00:44:15,200
+you're talking about yeah I I give it a
+
+1112
+00:44:13,760 --> 00:44:17,520
+full I give it a go round I go I just
+
+1113
+00:44:15,200 --> 00:44:19,880
+want to make sure lift up that one okay
+
+1114
+00:44:17,520 --> 00:44:21,200
+you check you lift them up I us I
+
+1115
+00:44:19,880 --> 00:44:23,319
+usually travel around with a the
+
+1116
+00:44:21,200 --> 00:44:24,599
+orthopedist and he just I just have this
+
+1117
+00:44:23,319 --> 00:44:26,040
+guy look at you real quick just to make
+
+1118
+00:44:24,599 --> 00:44:28,200
+sure allel this guys aren't Bo quick
+
+1119
+00:44:26,040 --> 00:44:30,040
+evaluation before I yeah I just got to
+
+1120
+00:44:28,200 --> 00:44:31,440
+get I'm going get a quick physical I
+
+1121
+00:44:30,040 --> 00:44:33,680
+travel with someone from the mail Clinic
+
+1122
+00:44:31,440 --> 00:44:35,559
+to give a quick physical no but if I I
+
+1123
+00:44:33,680 --> 00:44:39,079
+clearly have no legs I
+
+1124
+00:44:35,559 --> 00:44:41,319
+mean you go I guy's got no legs I do I
+
+1125
+00:44:39,079 --> 00:44:43,559
+have compassion for him so that's I
+
+1126
+00:44:41,319 --> 00:44:48,680
+think some people have the ability to go
+
+1127
+00:44:43,559 --> 00:44:49,960
+[ __ ] him yeah better better him than me
+
+1128
+00:44:48,680 --> 00:44:51,760
+let's say you had I don't have that in
+
+1129
+00:44:49,960 --> 00:44:54,200
+me better him than me I hate that let's
+
+1130
+00:44:51,760 --> 00:44:58,880
+say you had Seinfeld money what then
+
+1131
+00:44:54,200 --> 00:44:58,880
+would you keep producing the Way You Are
+
+1132
+00:44:59,880 --> 00:45:05,720
+no probably not no I I I I'm I'm too
+
+1133
+00:45:03,400 --> 00:45:07,640
+another terrible thing about my
+
+1134
+00:45:05,720 --> 00:45:09,880
+character is the laziness I'm just too
+
+1135
+00:45:07,640 --> 00:45:13,480
+lazy I'm too
+
+1136
+00:45:09,880 --> 00:45:15,640
+lazy uh if I had that kind of money I I
+
+1137
+00:45:13,480 --> 00:45:17,000
+don't know you're probably lazy based on
+
+1138
+00:45:15,640 --> 00:45:19,319
+your potential but you're not
+
+1139
+00:45:17,000 --> 00:45:21,119
+objectively lazy well I like I'm going
+
+1140
+00:45:19,319 --> 00:45:23,440
+to Cleveland this weekend to do a gig
+
+1141
+00:45:21,119 --> 00:45:25,400
+I'm doing a book signing I have an 8:
+
+1142
+00:45:23,440 --> 00:45:28,160
+a.m. flight the day after Thanksgiving
+
+1143
+00:45:25,400 --> 00:45:30,079
+to do a book signing for Friday that I'm
+
+1144
+00:45:28,160 --> 00:45:32,319
+in Cleveland Friday night doing whatever
+
+1145
+00:45:30,079 --> 00:45:33,839
+you do there with no gig and then
+
+1146
+00:45:32,319 --> 00:45:36,319
+Saturday night I have a gig in Cleveland
+
+1147
+00:45:33,839 --> 00:45:38,200
+come back Sunday basically giving up the
+
+1148
+00:45:36,319 --> 00:45:41,240
+whole Thanksgiving weekend that's not
+
+1149
+00:45:38,200 --> 00:45:44,040
+lazy you're working hard yeah but I
+
+1150
+00:45:41,240 --> 00:45:45,640
+wouldn't do that if I had sign for money
+
+1151
+00:45:44,040 --> 00:45:48,359
+right but you're still not lazy you're
+
+1152
+00:45:45,640 --> 00:45:50,280
+just saying you'd become lazy or or it's
+
+1153
+00:45:48,359 --> 00:45:55,040
+in you to be lazy you just don't have
+
+1154
+00:45:50,280 --> 00:45:57,400
+the option yeah yeah right I should be
+
+1155
+00:45:55,040 --> 00:45:59,280
+right that's true I should be walk the
+
+1156
+00:45:57,400 --> 00:46:01,240
+next weekend but I'm not I wonder if you
+
+1157
+00:45:59,280 --> 00:46:03,800
+cling on to like this quality of life
+
+1158
+00:46:01,240 --> 00:46:05,440
+thing as an excuse like you could go
+
+1159
+00:46:03,800 --> 00:46:07,720
+back you could scale it back and
+
+1160
+00:46:05,440 --> 00:46:09,319
+probably be just as happy but I wonder
+
+1161
+00:46:07,720 --> 00:46:12,200
+if you have to cling on to I must
+
+1162
+00:46:09,319 --> 00:46:14,880
+maintain these nice hotels these first
+
+1163
+00:46:12,200 --> 00:46:18,640
+class just to keep you motivated just to
+
+1164
+00:46:14,880 --> 00:46:20,800
+keep you working maybe maybe that's
+
+1165
+00:46:18,640 --> 00:46:22,559
+true so maybe if you had that money
+
+1166
+00:46:20,800 --> 00:46:24,359
+you'd find something else you'd be like
+
+1167
+00:46:22,559 --> 00:46:26,400
+oh I got to get to that Bill Gates level
+
+1168
+00:46:24,359 --> 00:46:28,800
+or whatever whatever it is maybe that's
+
+1169
+00:46:26,400 --> 00:46:30,160
+part of I guess I'm there now where I I
+
+1170
+00:46:28,800 --> 00:46:31,640
+should want to I do want to get to the
+
+1171
+00:46:30,160 --> 00:46:33,599
+next level but I just don't I don't know
+
+1172
+00:46:31,640 --> 00:46:35,240
+how to do it I I guess something's got
+
+1173
+00:46:33,599 --> 00:46:37,240
+to hit none of us know how to do I don't
+
+1174
+00:46:35,240 --> 00:46:39,160
+know how to get to the next level the
+
+1175
+00:46:37,240 --> 00:46:41,880
+that's the that's the tricky thing of it
+
+1176
+00:46:39,160 --> 00:46:44,520
+I guess that's the challenge right you
+
+1177
+00:46:41,880 --> 00:46:47,800
+know I always I thought about you know
+
+1178
+00:46:44,520 --> 00:46:51,280
+since Geraldo passed away I've thought
+
+1179
+00:46:47,800 --> 00:46:54,119
+about it a lot and I think the thing
+
+1180
+00:46:51,280 --> 00:46:55,640
+that this is just my theory but I think
+
+1181
+00:46:54,119 --> 00:46:57,720
+the thing that depressed him to the
+
+1182
+00:46:55,640 --> 00:47:00,280
+point that he didn't want to be here
+
+1183
+00:46:57,720 --> 00:47:02,440
+anymore was just the knowledge of his
+
+1184
+00:47:00,280 --> 00:47:05,000
+own potential because I
+
+1185
+00:47:02,440 --> 00:47:07,559
+think you think he committed suicide I
+
+1186
+00:47:05,000 --> 00:47:09,800
+think he committed suicide you do I do
+
+1187
+00:47:07,559 --> 00:47:11,520
+yeah from what I he from what I heard
+
+1188
+00:47:09,800 --> 00:47:13,720
+about it I thought maybe it was was
+
+1189
+00:47:11,520 --> 00:47:15,319
+actually an accident but you he could
+
+1190
+00:47:13,720 --> 00:47:17,280
+have I you know I mean it it was an
+
+1191
+00:47:15,319 --> 00:47:19,000
+accident a very avoidable accident for
+
+1192
+00:47:17,280 --> 00:47:21,520
+someone who was hellbent on living you
+
+1193
+00:47:19,000 --> 00:47:23,480
+know what I mean yeah if if he really
+
+1194
+00:47:21,520 --> 00:47:25,720
+wanted to be here I don't think that
+
+1195
+00:47:23,480 --> 00:47:27,400
+would have happened right well sometimes
+
+1196
+00:47:25,720 --> 00:47:28,640
+when you get tolerance to pills and you
+
+1197
+00:47:27,400 --> 00:47:30,640
+get the wrong
+
+1198
+00:47:28,640 --> 00:47:34,319
+kind it's not you're not getting the
+
+1199
+00:47:30,640 --> 00:47:35,800
+high you want from them and uh you keep
+
+1200
+00:47:34,319 --> 00:47:39,599
+taking them I don't know you're right
+
+1201
+00:47:35,800 --> 00:47:41,240
+but if you think him suicide I look I I
+
+1202
+00:47:39,599 --> 00:47:43,200
+think he I'm just pissed off in someone
+
+1203
+00:47:41,240 --> 00:47:45,920
+that funny doesn't leave a
+
+1204
+00:47:43,200 --> 00:47:48,880
+note you know the only people leave know
+
+1205
+00:47:45,920 --> 00:47:52,000
+are these awful unfunny
+
+1206
+00:47:48,880 --> 00:47:53,880
+bores I I wish you were with me right
+
+1207
+00:47:52,000 --> 00:47:58,079
+now
+
+1208
+00:47:53,880 --> 00:48:00,160
+Sarah as I look out at at my backyard
+
+1209
+00:47:58,079 --> 00:48:02,640
+the tractor don't
+
+1210
+00:48:00,160 --> 00:48:06,040
+work and I don't have money for the
+
+1211
+00:48:02,640 --> 00:48:09,040
+furnace no more and I wish you were here
+
+1212
+00:48:06,040 --> 00:48:12,520
+sir you're you're in California pursuing
+
+1213
+00:48:09,040 --> 00:48:15,400
+a music career and I wish you luck you
+
+1214
+00:48:12,520 --> 00:48:16,760
+got so talented you really are but I
+
+1215
+00:48:15,400 --> 00:48:19,280
+don't have any more money for the
+
+1216
+00:48:16,760 --> 00:48:23,680
+furnace to work exactly and I can't go
+
+1217
+00:48:19,280 --> 00:48:25,440
+to my job no more cuz they fired me you
+
+1218
+00:48:23,680 --> 00:48:28,280
+I'd want to hear what Greg Geraldo would
+
+1219
+00:48:25,440 --> 00:48:29,880
+saying his though you just feel deprived
+
+1220
+00:48:28,280 --> 00:48:31,680
+man it'd be great if Greg dadoo like
+
+1221
+00:48:29,880 --> 00:48:34,359
+somebody L her like just roasted
+
+1222
+00:48:31,680 --> 00:48:35,480
+everybody in his life in the well we
+
+1223
+00:48:34,359 --> 00:48:37,119
+should get some of the writers that
+
+1224
+00:48:35,480 --> 00:48:39,319
+wrote his that helped him on the roast
+
+1225
+00:48:37,119 --> 00:48:41,160
+jokes and have them like at least put it
+
+1226
+00:48:39,319 --> 00:48:42,680
+together and say hey he wrote this that
+
+1227
+00:48:41,160 --> 00:48:44,119
+would be great that would Bob Hope
+
+1228
+00:48:42,680 --> 00:48:47,040
+committed suicide he didn't write the
+
+1229
+00:48:44,119 --> 00:48:49,359
+note he didn't write the
+
+1230
+00:48:47,040 --> 00:48:50,799
+note that's a great joke we just thought
+
+1231
+00:48:49,359 --> 00:48:53,839
+of that's what happens when two
+
+1232
+00:48:50,799 --> 00:48:56,440
+comedians get together about yeah Bob
+
+1233
+00:48:53,839 --> 00:48:58,359
+Bob Bob Hope uh committed suicide his
+
+1234
+00:48:56,440 --> 00:49:01,200
+not will be ready according to the
+
+1235
+00:48:58,359 --> 00:49:01,200
+writers in four
+
+1236
+00:49:02,720 --> 00:49:08,319
+weeks that's great I love it well thank
+
+1237
+00:49:06,599 --> 00:49:09,920
+thank you so much Ary we should end on
+
+1238
+00:49:08,319 --> 00:49:12,359
+that we should we should yeah it's not
+
+1239
+00:49:09,920 --> 00:49:13,520
+going we that's what we figured out
+
+1240
+00:49:12,359 --> 00:49:14,799
+that's what we figur that now we just
+
+1241
+00:49:13,520 --> 00:49:17,160
+have to decide which one of us can put
+
+1242
+00:49:14,799 --> 00:49:19,599
+that in his standup
+
+1243
+00:49:17,160 --> 00:49:21,440
+act I love the view man I'm goingon to
+
+1244
+00:49:19,599 --> 00:49:23,720
+I'm going to miss this going back to LA
+
+1245
+00:49:21,440 --> 00:49:25,280
+I really thank God stop by if you want
+
+1246
+00:49:23,720 --> 00:49:27,079
+thank you you could come by if you want
+
+1247
+00:49:25,280 --> 00:49:29,040
+you're in LA but you know whenever if
+
+1248
+00:49:27,079 --> 00:49:30,400
+you're in town stop by I appreciate it
+
+1249
+00:49:29,040 --> 00:49:32,520
+we'll have a sandwich or something oh
+
+1250
+00:49:30,400 --> 00:49:34,119
+I'm always down for a sandwich I think
+
+1251
+00:49:32,520 --> 00:49:35,720
+being in La the view is even more
+
+1252
+00:49:34,119 --> 00:49:38,520
+beautiful in away I think the farther
+
+1253
+00:49:35,720 --> 00:49:41,040
+you get away from it the more like you
+
+1254
+00:49:38,520 --> 00:49:43,720
+romanticize it and make it
+
+1255
+00:49:41,040 --> 00:49:45,000
+absolutely no you'll miss New York here
+
+1256
+00:49:43,720 --> 00:49:46,960
+if you live in New York you see that
+
+1257
+00:49:45,000 --> 00:49:49,240
+view you'll see that in your sleep man
+
+1258
+00:49:46,960 --> 00:49:51,839
+you know yeah I think you know Woody
+
+1259
+00:49:49,240 --> 00:49:54,520
+Allen I'll quote him since you did but
+
+1260
+00:49:51,839 --> 00:49:57,280
+uh in that documentary Wild Man Blues
+
+1261
+00:49:54,520 --> 00:49:58,680
+yes he he was he was saying whenever
+
+1262
+00:49:57,280 --> 00:49:59,920
+he's in Europe he misses New York
+
+1263
+00:49:58,680 --> 00:50:02,319
+whenever he's in New York he misses
+
+1264
+00:49:59,920 --> 00:50:03,839
+Europe and I I feel the same way about
+
+1265
+00:50:02,319 --> 00:50:06,680
+wherever I am I want to be the other
+
+1266
+00:50:03,839 --> 00:50:09,000
+place right she con state of
+
+1267
+00:50:06,680 --> 00:50:10,799
+sadness that's what that's what seeing
+
+1268
+00:50:09,000 --> 00:50:12,599
+both of those places achieved if I just
+
+1269
+00:50:10,799 --> 00:50:14,359
+stayed here I'd be happy here I got to
+
+1270
+00:50:12,599 --> 00:50:16,400
+go here and be find another place I got
+
+1271
+00:50:14,359 --> 00:50:19,440
+to miss and you know it's like but it
+
+1272
+00:50:16,400 --> 00:50:21,520
+won that it usually doesn't happen in La
+
+1273
+00:50:19,440 --> 00:50:24,200
+most people most people living in New
+
+1274
+00:50:21,520 --> 00:50:26,799
+York uh don't who lived in La at one
+
+1275
+00:50:24,200 --> 00:50:28,799
+point you don't see them walking down 57
+
+1276
+00:50:26,799 --> 00:50:30,280
+you're going God I miss Los Feliz but
+
+1277
+00:50:28,799 --> 00:50:32,400
+you miss the weather you don't miss the
+
+1278
+00:50:30,280 --> 00:50:33,480
+place you miss the you miss the warmth
+
+1279
+00:50:32,400 --> 00:50:35,240
+you missed the weather but there's so
+
+1280
+00:50:33,480 --> 00:50:37,440
+many [ __ ] are talking in that
+
+1281
+00:50:35,240 --> 00:50:38,640
+weather about the weather and you know
+
+1282
+00:50:37,440 --> 00:50:40,680
+that that's why whenever you talk to
+
+1283
+00:50:38,640 --> 00:50:42,280
+someone about La you know how is they go
+
+1284
+00:50:40,680 --> 00:50:43,599
+it's great the weather's great that's I
+
+1285
+00:50:42,280 --> 00:50:45,480
+hate when a young person says that I'm
+
+1286
+00:50:43,599 --> 00:50:48,200
+like buy a [ __ ]
+
+1287
+00:50:45,480 --> 00:50:51,480
+jacket honestly the cost of a jacket is
+
+1288
+00:50:48,200 --> 00:50:53,599
+all your is is is all between you and
+
+1289
+00:50:51,480 --> 00:50:55,599
+being happy is the cost of a go let's
+
+1290
+00:50:53,599 --> 00:50:59,119
+let's go to Old Navy I'll get you some
+
+1291
+00:50:55,599 --> 00:51:02,319
+I'll get you thermal shirt like you know
+
+1292
+00:50:59,119 --> 00:51:05,030
+congratulations here's La yeah exactly
+
+1293
+00:51:02,319 --> 00:51:10,540
+yeah bye thanks s thanks
+
+1294
+00:51:05,030 --> 00:51:12,160
+[Music]
+
+1295
+00:51:10,540 --> 00:51:21,960
+[Applause]
+
+1296
+00:51:12,160 --> 00:51:24,200
+[Music]
+
+1297
+00:51:21,960 --> 00:51:26,160
+Dad well I hope you enjoyed that as much
+
+1298
+00:51:24,200 --> 00:51:28,559
+as I did thank you again to Arty Lang
+
+1299
+00:51:26,160 --> 00:51:31,119
+for doing the show thank you to you guys
+
+1300
+00:51:28,559 --> 00:51:33,319
+for listening please don't be afraid
+
+1301
+00:51:31,119 --> 00:51:36,079
+during our little time off now between
+
+1302
+00:51:33,319 --> 00:51:38,160
+Seasons to send me an email say hello
+
+1303
+00:51:36,079 --> 00:51:40,040
+the comical yahoo.com let me know what
+
+1304
+00:51:38,160 --> 00:51:41,960
+you think of the show let me know you
+
+1305
+00:51:40,040 --> 00:51:44,119
+exist connect that's what Ry and I were
+
+1306
+00:51:41,960 --> 00:51:45,880
+talking about not feeling alone in the
+
+1307
+00:51:44,119 --> 00:51:48,400
+world he said it was one of the greatest
+
+1308
+00:51:45,880 --> 00:51:51,599
+parts of life and I agree it's nice to
+
+1309
+00:51:48,400 --> 00:51:53,880
+know you're out there say hello drop me
+
+1310
+00:51:51,599 --> 00:51:56,119
+an email the comical
+
+1311
+00:51:53,880 --> 00:51:57,680
+yahoo.com jump on the Facebook page I
+
+1312
+00:51:56,119 --> 00:52:00,880
+don't know if you to jump on it but you
+
+1313
+00:51:57,680 --> 00:52:02,559
+know you can go on it you can ease into
+
+1314
+00:52:00,880 --> 00:52:04,839
+it
+
+1315
+00:52:02,559 --> 00:52:07,359
+facebook.com/ modernday philosophers
+
+1316
+00:52:04,839 --> 00:52:10,000
+that's the Facebook page we also have a
+
+1317
+00:52:07,359 --> 00:52:12,400
+website modernday philosophers. net
+
+1318
+00:52:10,000 --> 00:52:14,079
+where there is a PayPal donate button
+
+1319
+00:52:12,400 --> 00:52:16,640
+and should you feel so inclined to
+
+1320
+00:52:14,079 --> 00:52:20,040
+support a truly struggling artist that
+
+1321
+00:52:16,640 --> 00:52:22,119
+is what I am you can make a donation and
+
+1322
+00:52:20,040 --> 00:52:23,680
+hey you know what it would be a
+
+1323
+00:52:22,119 --> 00:52:26,040
+lifechanging
+
+1324
+00:52:23,680 --> 00:52:27,920
+thing even if it's a small donation it
+
+1325
+00:52:26,040 --> 00:52:30,559
+would change my life technically in some
+
+1326
+00:52:27,920 --> 00:52:34,559
+way but any donation would be very
+
+1327
+00:52:30,559 --> 00:52:37,960
+appreciated and would go a long way so
+
+1328
+00:52:34,559 --> 00:52:41,960
+please do that if you can go to standup
+
+1329
+00:52:37,960 --> 00:52:44,920
+crap.com once again standup.on brought
+
+1330
+00:52:41,960 --> 00:52:47,400
+us this beautiful episode today Dan
+
+1331
+00:52:44,920 --> 00:52:49,319
+schle a wonderful man who runs it
+
+1332
+00:52:47,400 --> 00:52:51,920
+standup records is the label standup
+
+1333
+00:52:49,319 --> 00:52:54,760
+crap.com is the store go buy some
+
+1334
+00:52:51,920 --> 00:52:56,799
+downloads support support the cause you
+
+1335
+00:52:54,760 --> 00:53:00,040
+need some earbuds go to tweaked
+
+1336
+00:52:56,799 --> 00:53:02,040
+audio.com and put in promo code mdp get
+
+1337
+00:53:00,040 --> 00:53:05,920
+a third off and I'm supposed to get
+
+1338
+00:53:02,040 --> 00:53:08,240
+something back on that all right I think
+
+1339
+00:53:05,920 --> 00:53:10,720
+that's about it for this week I will see
+
+1340
+00:53:08,240 --> 00:53:12,920
+you guys next week with the wrap-up show
+
+1341
+00:53:10,720 --> 00:53:15,760
+the season wrap-up with Alex faella and
+
+1342
+00:53:12,920 --> 00:53:18,079
+I and then a great guest is kicking off
+
+1343
+00:53:15,760 --> 00:53:20,640
+season 3 so get excited for that all
+
+1344
+00:53:18,079 --> 00:53:22,960
+that coming up and so much more right
+
+1345
+00:53:20,640 --> 00:53:25,920
+here at modern day philosophers
+
+1346
+00:53:22,960 --> 00:53:26,960
+headquarters my apartment it's just I
+
+1347
+00:53:25,920 --> 00:53:29,880
+don't know if you can hear he my dog
+
+1348
+00:53:26,960 --> 00:53:31,040
+snoring in the background if you can't
+
+1349
+00:53:29,880 --> 00:53:33,520
+well then you'll just have to take my
+
+1350
+00:53:31,040 --> 00:53:35,280
+word for it that my dog is snoring in
+
+1351
+00:53:33,520 --> 00:53:37,480
+the
+
+1352
+00:53:35,280 --> 00:53:40,480
+background only one of them is snoring
+
+1353
+00:53:37,480 --> 00:53:42,960
+the other one's sleeping silently and
+
+1354
+00:53:40,480 --> 00:53:47,440
+the Tortoise he doesn't snore too much
+
+1355
+00:53:42,960 --> 00:53:48,760
+at all all right I'm rambling on have a
+
+1356
+00:53:47,440 --> 00:53:52,760
+good week everybody and I'll see you
+
+1357
+00:53:48,760 --> 00:53:52,760
+next Monday bye
+
