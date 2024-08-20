@@ -1,0 +1,2540 @@
+1
+00:00:13,640 --> 00:00:19,440
+[Music]
+
+2
+00:00:20,320 --> 00:00:27,880
+it's time for fishing on the water
+
+3
+00:00:23,119 --> 00:00:27,880
+America's favorite fishing show
+
+4
+00:00:32,040 --> 00:00:38,960
+with your host alltime All-American
+
+5
+00:00:35,200 --> 00:00:38,960
+fishing Champion Billy
+
+6
+00:00:43,800 --> 00:00:49,800
+desan this week mission on the water
+
+7
+00:00:47,360 --> 00:00:53,360
+takes us to the industrial waterways of
+
+8
+00:00:49,800 --> 00:00:53,360
+the Great Northwest
+
+9
+00:00:56,000 --> 00:00:59,170
+[Music]
+
+10
+00:01:03,060 --> 00:01:10,690
+[Music]
+
+11
+00:01:05,799 --> 00:01:20,479
+fishing along with Billy today is Dr
+
+12
+00:01:10,690 --> 00:01:23,880
+[Music]
+
+13
+00:01:20,479 --> 00:01:27,479
+spinter so join Billy and the doctor for
+
+14
+00:01:23,880 --> 00:01:31,079
+a funfilled day of fishing on the water
+
+15
+00:01:27,479 --> 00:01:31,079
+coming soon
+
+16
+00:01:37,200 --> 00:01:55,790
+[Music]
+
+17
+00:01:58,520 --> 00:02:01,520
+called
+
+18
+00:02:03,300 --> 00:02:17,199
+[Music]
+
+19
+00:02:20,239 --> 00:02:33,879
+compens
+
+20
+00:02:22,310 --> 00:02:36,720
+[Music]
+
+21
+00:02:33,879 --> 00:02:40,080
+hello and uh welcome welcome once again
+
+22
+00:02:36,720 --> 00:02:44,640
+tight line uh in our uh second season
+
+23
+00:02:40,080 --> 00:02:46,120
+now uh wa watch us um just look at us
+
+24
+00:02:44,640 --> 00:02:49,000
+now
+
+25
+00:02:46,120 --> 00:02:52,560
+um um to tonight Thailand is brought to
+
+26
+00:02:49,000 --> 00:02:55,040
+you by a dry socket um if something gets
+
+27
+00:02:52,560 --> 00:02:56,959
+wet don't drop it dry
+
+28
+00:02:55,040 --> 00:03:00,319
+socket
+
+29
+00:02:56,959 --> 00:03:02,959
+um tonight we have a very special show
+
+30
+00:03:00,319 --> 00:03:07,280
+for you tonight uh we have a software
+
+31
+00:03:02,959 --> 00:03:09,640
+professional and Doctor uh Wayne bunx
+
+32
+00:03:07,280 --> 00:03:12,599
+who uh who has developed a uh very
+
+33
+00:03:09,640 --> 00:03:14,400
+interesting and uh useful uh software
+
+34
+00:03:12,599 --> 00:03:17,200
+package called mind
+
+35
+00:03:14,400 --> 00:03:19,560
+prober and uh we're going to demonstrate
+
+36
+00:03:17,200 --> 00:03:21,560
+uh the uh the software package tonight
+
+37
+00:03:19,560 --> 00:03:24,519
+on the show and we're going to do a
+
+38
+00:03:21,560 --> 00:03:25,920
+little demonstration of uh of me and
+
+39
+00:03:24,519 --> 00:03:28,159
+we'll see how the program works thank
+
+40
+00:03:25,920 --> 00:03:29,400
+you for coming yes I'm very very glad to
+
+41
+00:03:28,159 --> 00:03:31,560
+be here and I want to thank you for
+
+42
+00:03:29,400 --> 00:03:33,480
+having me oh thank you um You' already
+
+43
+00:03:31,560 --> 00:03:37,000
+enjoyed the brief talk that we've had
+
+44
+00:03:33,480 --> 00:03:39,159
+yes yes um uh so so tell us U be before
+
+45
+00:03:37,000 --> 00:03:42,920
+we get into the actual demonstration uh
+
+46
+00:03:39,159 --> 00:03:45,840
+Dr bunx um what uh how long have you
+
+47
+00:03:42,920 --> 00:03:48,120
+been working on uh software
+
+48
+00:03:45,840 --> 00:03:49,640
+packages well this is my first one
+
+49
+00:03:48,120 --> 00:03:51,920
+actually I used to just write this by
+
+50
+00:03:49,640 --> 00:03:53,439
+hand but I had a friend uh describe it
+
+51
+00:03:51,920 --> 00:03:56,040
+and show me how to use it and I've just
+
+52
+00:03:53,439 --> 00:03:58,439
+recently bought this computer uhhuh uh
+
+53
+00:03:56,040 --> 00:04:02,400
+yes this is a this is a very very uh
+
+54
+00:03:58,439 --> 00:04:05,599
+useful uh uh machine uh Macintosh you
+
+55
+00:04:02,400 --> 00:04:10,000
+someday I hope to know how to use it I I
+
+56
+00:04:05,599 --> 00:04:11,879
+see that's a funny joke um uh so so you
+
+57
+00:04:10,000 --> 00:04:14,040
+uh did you actually develop the software
+
+58
+00:04:11,879 --> 00:04:15,840
+you you developed the software for uh I
+
+59
+00:04:14,040 --> 00:04:17,919
+figured out what to write down and then
+
+60
+00:04:15,840 --> 00:04:19,840
+they wrote it down for me they put it on
+
+61
+00:04:17,919 --> 00:04:22,720
+the software and they showed me how to
+
+62
+00:04:19,840 --> 00:04:24,919
+well on the the floppy disc they they
+
+63
+00:04:22,720 --> 00:04:26,560
+what language Square thing what what
+
+64
+00:04:24,919 --> 00:04:30,120
+language were they using in uh
+
+65
+00:04:26,560 --> 00:04:32,880
+developing this no uh the the uh the
+
+66
+00:04:30,120 --> 00:04:35,280
+computer language what what uh what what
+
+67
+00:04:32,880 --> 00:04:38,720
+uh Co what code was
+
+68
+00:04:35,280 --> 00:04:42,199
+it um well the the one with English
+
+69
+00:04:38,720 --> 00:04:44,160
+words where no no what what computer
+
+70
+00:04:42,199 --> 00:04:47,680
+what programming language was it oh I
+
+71
+00:04:44,160 --> 00:04:49,840
+see uh basic maybe I I'm not sure what
+
+72
+00:04:47,680 --> 00:04:51,520
+what what language is they used basic
+
+73
+00:04:49,840 --> 00:04:53,120
+I'm not sure I don't know that's the
+
+74
+00:04:51,520 --> 00:04:55,479
+only one that I ever used I remember in
+
+75
+00:04:53,120 --> 00:04:57,560
+second grade I was first introduced to
+
+76
+00:04:55,479 --> 00:04:59,840
+the computer and I I used basic at that
+
+77
+00:04:57,560 --> 00:05:02,680
+point I don't know what so you you you
+
+78
+00:04:59,840 --> 00:05:04,680
+uh you you program only in basic then
+
+79
+00:05:02,680 --> 00:05:06,280
+I'm not really sure what I program in I
+
+80
+00:05:04,680 --> 00:05:09,840
+didn't really program this I just made
+
+81
+00:05:06,280 --> 00:05:13,520
+up the test oh so you you um you you
+
+82
+00:05:09,840 --> 00:05:15,800
+simply uh designed the uh the uh the
+
+83
+00:05:13,520 --> 00:05:18,240
+test itself you weren't involved with
+
+84
+00:05:15,800 --> 00:05:19,840
+the writing of the software uh no I
+
+85
+00:05:18,240 --> 00:05:21,400
+wasn't someone else figured that out for
+
+86
+00:05:19,840 --> 00:05:23,720
+me and has showned me how to use this so
+
+87
+00:05:21,400 --> 00:05:25,440
+I'm I'm learning a lot and it's a an
+
+88
+00:05:23,720 --> 00:05:27,319
+it's an exciting phase I thought that
+
+89
+00:05:25,440 --> 00:05:31,120
+you I thought that you had actually been
+
+90
+00:05:27,319 --> 00:05:34,440
+uh been uh the the initial software
+
+91
+00:05:31,120 --> 00:05:36,960
+developer for the uh and uh someone
+
+92
+00:05:34,440 --> 00:05:38,479
+someone had come to you with uh well I I
+
+93
+00:05:36,960 --> 00:05:41,639
+thought you that you had done the the
+
+94
+00:05:38,479 --> 00:05:44,840
+whole thing that you um uh had written
+
+95
+00:05:41,639 --> 00:05:49,440
+the the the software well as I explained
+
+96
+00:05:44,840 --> 00:05:51,600
+I I'm not I wrote it so you uh and and
+
+97
+00:05:49,440 --> 00:05:54,440
+you know just a little bit of
+
+98
+00:05:51,600 --> 00:05:56,360
+basic uh you that's what it is you you
+
+99
+00:05:54,440 --> 00:05:58,280
+don't even know what language they used
+
+100
+00:05:56,360 --> 00:06:00,039
+I'm not for sure no I'm not sure I
+
+101
+00:05:58,280 --> 00:06:01,800
+should I should have that explain that
+
+102
+00:06:00,039 --> 00:06:03,039
+to me and I'm sure that I will that's
+
+103
+00:06:01,800 --> 00:06:05,479
+something that I'd like to learn all
+
+104
+00:06:03,039 --> 00:06:07,560
+about uhhuh well that's good that you
+
+105
+00:06:05,479 --> 00:06:09,280
+that that you want to learn yeah that
+
+106
+00:06:07,560 --> 00:06:12,639
+that's uh that's that's anyway we were
+
+107
+00:06:09,280 --> 00:06:15,360
+going to take this test well um uh let's
+
+108
+00:06:12,639 --> 00:06:19,560
+uh what what uh what what school did you
+
+109
+00:06:15,360 --> 00:06:21,280
+go to um our our uh did you go to a a
+
+110
+00:06:19,560 --> 00:06:24,400
+technical institute well I went to the
+
+111
+00:06:21,280 --> 00:06:26,599
+open school in R open School California
+
+112
+00:06:24,400 --> 00:06:28,759
+mhm and is there actually a school
+
+113
+00:06:26,599 --> 00:06:31,800
+called the open school the open school
+
+114
+00:06:28,759 --> 00:06:34,000
+we could design our programs I was I was
+
+115
+00:06:31,800 --> 00:06:35,080
+into non-traditional education at that
+
+116
+00:06:34,000 --> 00:06:38,000
+point
+
+117
+00:06:35,080 --> 00:06:40,360
+open why would they name a school
+
+118
+00:06:38,000 --> 00:06:43,160
+open should we had the freedom to
+
+119
+00:06:40,360 --> 00:06:45,479
+develop our closed in and and structured
+
+120
+00:06:43,160 --> 00:06:47,840
+and not open well actually I rebelled
+
+121
+00:06:45,479 --> 00:06:51,840
+against that I really really found that
+
+122
+00:06:47,840 --> 00:06:54,440
+confining and and it instilled a lot of
+
+123
+00:06:51,840 --> 00:06:55,520
+spiritual uh trouble in me to be in a
+
+124
+00:06:54,440 --> 00:06:58,080
+really
+
+125
+00:06:55,520 --> 00:07:01,960
+confining situation that that encouraged
+
+126
+00:06:58,080 --> 00:07:05,759
+Conformity and well it the the the whole
+
+127
+00:07:01,960 --> 00:07:09,039
+reason for school is is to uh establish
+
+128
+00:07:05,759 --> 00:07:12,080
+a uh uh something to conform too I think
+
+129
+00:07:09,039 --> 00:07:14,360
+um that's I've never I've never met
+
+130
+00:07:12,080 --> 00:07:17,800
+anyone who who really felt that way well
+
+131
+00:07:14,360 --> 00:07:19,759
+it um you so you went to the open school
+
+132
+00:07:17,800 --> 00:07:21,840
+that was in high school yes high school
+
+133
+00:07:19,759 --> 00:07:23,360
+that age high school was open open and
+
+134
+00:07:21,840 --> 00:07:26,919
+then so what was elementary school was
+
+135
+00:07:23,360 --> 00:07:29,560
+Elementary School uh uh easygoing all
+
+136
+00:07:26,919 --> 00:07:32,960
+over the place it was Redlands Sky View
+
+137
+00:07:29,560 --> 00:07:35,840
+Sky View elementary mhm it was it in a a
+
+138
+00:07:32,960 --> 00:07:38,879
+big big open building were these both
+
+139
+00:07:35,840 --> 00:07:41,319
+big wide rambling uh you know regular
+
+140
+00:07:38,879 --> 00:07:46,000
+regular old uh built in the early 60s
+
+141
+00:07:41,319 --> 00:07:48,039
+kind SCH yeah um well I I I I wasn't
+
+142
+00:07:46,000 --> 00:07:50,039
+well yes let's we can go on with a test
+
+143
+00:07:48,039 --> 00:07:51,360
+now if uh if you'd like um you're
+
+144
+00:07:50,039 --> 00:07:54,319
+disturbed about something there's
+
+145
+00:07:51,360 --> 00:07:56,199
+something well um I I didn't I I had no
+
+146
+00:07:54,319 --> 00:07:58,120
+idea that you weren't actually the the
+
+147
+00:07:56,199 --> 00:07:59,840
+the software developer on this you're
+
+148
+00:07:58,120 --> 00:08:04,240
+disappointed and that you went to school
+
+149
+00:07:59,840 --> 00:08:06,879
+called the open I don't know um uh what
+
+150
+00:08:04,240 --> 00:08:08,639
+our viewers would think um uh you know
+
+151
+00:08:06,879 --> 00:08:10,080
+someone going to to a place called The
+
+152
+00:08:08,639 --> 00:08:11,759
+open school I'm sure a lot of your
+
+153
+00:08:10,080 --> 00:08:13,840
+viewers went to an open school as well
+
+154
+00:08:11,759 --> 00:08:16,199
+there's one right here oh there is
+
+155
+00:08:13,840 --> 00:08:18,039
+there's several all over the country
+
+156
+00:08:16,199 --> 00:08:20,159
+it's an idea that really took root when
+
+157
+00:08:18,039 --> 00:08:22,800
+the non-traditional ways of learning
+
+158
+00:08:20,159 --> 00:08:24,440
+were first being espoused in the' 60s
+
+159
+00:08:22,800 --> 00:08:27,039
+well okay now let's not get into that
+
+160
+00:08:24,440 --> 00:08:30,319
+let's let's take a look at uh uh the
+
+161
+00:08:27,039 --> 00:08:32,519
+program the program is not open and uh
+
+162
+00:08:30,319 --> 00:08:35,159
+we can control somewhat uh the the
+
+163
+00:08:32,519 --> 00:08:38,320
+program is structured yes it is yes it's
+
+164
+00:08:35,159 --> 00:08:40,839
+a simple agree disagree format and then
+
+165
+00:08:38,320 --> 00:08:42,360
+after answering several things will come
+
+166
+00:08:40,839 --> 00:08:46,640
+up with a character profile that's very
+
+167
+00:08:42,360 --> 00:08:49,560
+good yes um so we can sort of uh skip
+
+168
+00:08:46,640 --> 00:08:51,160
+the first uh portion of the show because
+
+169
+00:08:49,560 --> 00:08:55,160
+uh we weren't actually looking at the
+
+170
+00:08:51,160 --> 00:08:58,640
+program um okay there ding there it goes
+
+171
+00:08:55,160 --> 00:09:01,079
+um okay now let's uh uh load up uh load
+
+172
+00:08:58,640 --> 00:09:04,399
+up the program and and uh we'll begin
+
+173
+00:09:01,079 --> 00:09:07,640
+okay um let's just uh get that no that's
+
+174
+00:09:04,399 --> 00:09:10,680
+um that's you you put yeah um to
+
+175
+00:09:07,640 --> 00:09:12,800
+Macintosh yes the arrow whoops I believe
+
+176
+00:09:10,680 --> 00:09:15,680
+that you you you you put that on on the
+
+177
+00:09:12,800 --> 00:09:18,720
+on the table I don't I don't I don't
+
+178
+00:09:15,680 --> 00:09:22,120
+what are you doing I'm move see when I
+
+179
+00:09:18,720 --> 00:09:24,120
+roll this ball it moves the arrow well
+
+180
+00:09:22,120 --> 00:09:26,040
+no that's that's you're supposed to that
+
+181
+00:09:24,120 --> 00:09:27,560
+is supposed to be placed firmly on top
+
+182
+00:09:26,040 --> 00:09:29,680
+of the the the surface there and then
+
+183
+00:09:27,560 --> 00:09:31,279
+you move I know that's called a for me
+
+184
+00:09:29,680 --> 00:09:33,160
+to do it that way I can't get the
+
+185
+00:09:31,279 --> 00:09:35,320
+perspective to move it around it's very
+
+186
+00:09:33,160 --> 00:09:37,959
+difficult for me to do that well I I I'm
+
+187
+00:09:35,320 --> 00:09:40,920
+I I I haven't used this computer very
+
+188
+00:09:37,959 --> 00:09:43,880
+much either I am currently a beta test
+
+189
+00:09:40,920 --> 00:09:45,839
+site for a cray 3 but but I do know that
+
+190
+00:09:43,880 --> 00:09:47,440
+I do know what a mouse is and I do know
+
+191
+00:09:45,839 --> 00:09:50,480
+the right way to use a mouse is to put
+
+192
+00:09:47,440 --> 00:09:51,959
+it firmly on top of the table to the
+
+193
+00:09:50,480 --> 00:09:53,959
+computer it's much easier for me to use
+
+194
+00:09:51,959 --> 00:09:55,760
+it this way but I will I will put it it
+
+195
+00:09:53,959 --> 00:09:57,680
+down if it will make you feel more
+
+196
+00:09:55,760 --> 00:09:59,560
+comfortable well I'm just trying I'm
+
+197
+00:09:57,680 --> 00:10:01,680
+just trying to I'm not talking about
+
+198
+00:09:59,560 --> 00:10:03,360
+feeling I'm not I'm not trying to to
+
+199
+00:10:01,680 --> 00:10:06,079
+make myself more comfortable I'm just
+
+200
+00:10:03,360 --> 00:10:08,560
+trying to to inform you the right way to
+
+201
+00:10:06,079 --> 00:10:10,680
+do it well and as the right way to do it
+
+202
+00:10:08,560 --> 00:10:14,880
+to put it on way I'm aware of the right
+
+203
+00:10:10,680 --> 00:10:18,000
+way okay start the program go ahead
+
+204
+00:10:14,880 --> 00:10:22,600
+okay mind prober yes that's what we're
+
+205
+00:10:18,000 --> 00:10:22,600
+going to be doing that's that's
+
+206
+00:10:28,320 --> 00:10:35,040
+it it should uh should work well it's
+
+207
+00:10:32,839 --> 00:10:37,440
+your program I wouldn't be surprised if
+
+208
+00:10:35,040 --> 00:10:37,440
+it didn't
+
+209
+00:10:39,639 --> 00:10:45,120
+work are you having some problems well
+
+210
+00:10:42,880 --> 00:10:47,320
+it should go on I I uh how long have you
+
+211
+00:10:45,120 --> 00:10:50,440
+had this computer I I've just I've just
+
+212
+00:10:47,320 --> 00:10:53,279
+uh started using this recently oh really
+
+213
+00:10:50,440 --> 00:10:54,760
+mhm I see I used you Haven taken you
+
+214
+00:10:53,279 --> 00:10:56,720
+haven't taken the time to learn how to
+
+215
+00:10:54,760 --> 00:10:58,800
+use the your it's kind of embarrassing
+
+216
+00:10:56,720 --> 00:11:03,639
+but see I set myself up for that I I
+
+217
+00:10:58,800 --> 00:11:06,360
+took a risk I wanted to learn by using
+
+218
+00:11:03,639 --> 00:11:08,560
+handson and so you you just you you
+
+219
+00:11:06,360 --> 00:11:09,920
+neglected to to study up on the material
+
+220
+00:11:08,560 --> 00:11:12,000
+you just you're just letting
+
+221
+00:11:09,920 --> 00:11:14,360
+unfortunately I that's true see this is
+
+222
+00:11:12,000 --> 00:11:15,519
+a problem that we're having that many
+
+223
+00:11:14,360 --> 00:11:17,120
+people I think are having in this
+
+224
+00:11:15,519 --> 00:11:19,079
+country we're not taking the time to
+
+225
+00:11:17,120 --> 00:11:21,920
+read and reread
+
+226
+00:11:19,079 --> 00:11:26,279
+directions um directions are not put
+
+227
+00:11:21,920 --> 00:11:28,360
+there um for for the someone to to be
+
+228
+00:11:26,279 --> 00:11:31,240
+happy directions and instructions are
+
+229
+00:11:28,360 --> 00:11:33,000
+there for us to read and to understand
+
+230
+00:11:31,240 --> 00:11:35,720
+the the equipment we're using or else we
+
+231
+00:11:33,000 --> 00:11:39,480
+get into these situations um like like
+
+232
+00:11:35,720 --> 00:11:40,680
+Dr uh bun wax is he's he's completely
+
+233
+00:11:39,480 --> 00:11:43,200
+well it's starting now but he was
+
+234
+00:11:40,680 --> 00:11:44,760
+completely confused I was pushing the
+
+235
+00:11:43,200 --> 00:11:47,079
+button I was doing everything that I was
+
+236
+00:11:44,760 --> 00:11:48,120
+told to do it just for some reason took
+
+237
+00:11:47,079 --> 00:11:51,120
+a
+
+238
+00:11:48,120 --> 00:11:53,079
+little little adjustment well it's
+
+239
+00:11:51,120 --> 00:11:56,720
+everything's okay now though okay now
+
+240
+00:11:53,079 --> 00:11:59,320
+let's uh let's uh let's that's so
+
+241
+00:11:56,720 --> 00:12:01,680
+embarrassing I can't believe how I feel
+
+242
+00:11:59,320 --> 00:12:03,959
+it's it's uh it's embarrassing I was
+
+243
+00:12:01,680 --> 00:12:05,639
+embarrassed so what well at least you
+
+244
+00:12:03,959 --> 00:12:07,200
+were embarrassed at least I was
+
+245
+00:12:05,639 --> 00:12:09,120
+embarrassed and I'm acknowledging my
+
+246
+00:12:07,200 --> 00:12:10,720
+feelings now and I think that that's you
+
+247
+00:12:09,120 --> 00:12:13,360
+know where you were speaking about what
+
+248
+00:12:10,720 --> 00:12:15,680
+people should be doing these days and I
+
+249
+00:12:13,360 --> 00:12:17,959
+you feel better now that for us you were
+
+250
+00:12:15,680 --> 00:12:20,079
+embarrassed you feel better about it now
+
+251
+00:12:17,959 --> 00:12:21,680
+okay are you done talking cuz I was not
+
+252
+00:12:20,079 --> 00:12:23,480
+quite finished with what I say I'm just
+
+253
+00:12:21,680 --> 00:12:25,680
+trying to to explain cuz sometimes our
+
+254
+00:12:23,480 --> 00:12:27,680
+viewers don't quite understand what's
+
+255
+00:12:25,680 --> 00:12:29,959
+happening maybe it's because you don't
+
+256
+00:12:27,680 --> 00:12:32,079
+let the guests get everything out that
+
+257
+00:12:29,959 --> 00:12:34,600
+they were saying well let's let's let's
+
+258
+00:12:32,079 --> 00:12:37,240
+just as a helpful start the test let's
+
+259
+00:12:34,600 --> 00:12:40,040
+start the test let's
+
+260
+00:12:37,240 --> 00:12:43,920
+go okay oh I think you want to put the
+
+261
+00:12:40,040 --> 00:12:47,240
+little arrow up to where it says file oh
+
+262
+00:12:43,920 --> 00:12:49,240
+okay and I just can't do let me do it
+
+263
+00:12:47,240 --> 00:12:50,560
+see you want to do this see I've studied
+
+264
+00:12:49,240 --> 00:12:52,959
+this program you haven't even looked at
+
+265
+00:12:50,560 --> 00:12:54,720
+it yourself well it's your own program
+
+266
+00:12:52,959 --> 00:12:56,720
+just roll the ball with my finger and
+
+267
+00:12:54,720 --> 00:12:58,240
+have no problem with it well you can't
+
+268
+00:12:56,720 --> 00:13:00,519
+just roll the ball you have to use it
+
+269
+00:12:58,240 --> 00:13:02,519
+the right way it's hard for me to do
+
+270
+00:13:00,519 --> 00:13:07,320
+okay first initial
+
+271
+00:13:02,519 --> 00:13:09,959
+D what what is your name by the way do D
+
+272
+00:13:07,320 --> 00:13:12,920
+okay capital D capital
+
+273
+00:13:09,959 --> 00:13:14,560
+D okay and then we'll go on to the
+
+274
+00:13:12,920 --> 00:13:18,000
+second initial second
+
+275
+00:13:14,560 --> 00:13:19,480
+initial gee this is so hard to do it
+
+276
+00:13:18,000 --> 00:13:20,920
+this way well it's hard to do it when
+
+277
+00:13:19,480 --> 00:13:22,880
+you don't know how to do it I can't
+
+278
+00:13:20,920 --> 00:13:25,000
+believe that that that that this is your
+
+279
+00:13:22,880 --> 00:13:27,120
+own well now you're supposed to click on
+
+280
+00:13:25,000 --> 00:13:29,920
+the second box see now you you you you
+
+281
+00:13:27,120 --> 00:13:33,519
+made an error s s s yes you have full of
+
+282
+00:13:29,920 --> 00:13:35,639
+s's in the first box and that's not back
+
+283
+00:13:33,519 --> 00:13:38,920
+no you have to backspace it see now
+
+284
+00:13:35,639 --> 00:13:41,560
+here's the D okay and here's the S this
+
+285
+00:13:38,920 --> 00:13:45,000
+is where the S goes you put them out oh
+
+286
+00:13:41,560 --> 00:13:46,920
+you you put well sometimes when we do
+
+287
+00:13:45,000 --> 00:13:49,639
+things really hastily and with a lot of
+
+288
+00:13:46,920 --> 00:13:51,120
+anger we tend to make it worse well
+
+289
+00:13:49,639 --> 00:13:53,880
+sometimes when we just sit back and let
+
+290
+00:13:51,120 --> 00:13:55,519
+things happen nothing happens at all and
+
+291
+00:13:53,880 --> 00:13:57,839
+we just we just don't we don't care
+
+292
+00:13:55,519 --> 00:14:00,839
+what's going on and and we make errors
+
+293
+00:13:57,839 --> 00:14:03,560
+we have to be uh constantly um
+
+294
+00:14:00,839 --> 00:14:05,040
+questioning and and uh probing and
+
+295
+00:14:03,560 --> 00:14:07,079
+that's why that's why I chose to have
+
+296
+00:14:05,040 --> 00:14:10,199
+you on the show because I thought you
+
+297
+00:14:07,079 --> 00:14:12,959
+wanted to probe okay you're very
+
+298
+00:14:10,199 --> 00:14:17,360
+aggressive thank you thank
+
+299
+00:14:12,959 --> 00:14:20,079
+you all right tative let's say
+
+300
+00:14:17,360 --> 00:14:23,440
+yes I would say that you're very
+
+301
+00:14:20,079 --> 00:14:27,079
+talkative okay I would agree yes I get
+
+302
+00:14:23,440 --> 00:14:29,560
+that arrow in there I I am I would I
+
+303
+00:14:27,079 --> 00:14:32,519
+would agree that that I am talkative yes
+
+304
+00:14:29,560 --> 00:14:35,279
+I would say you're egotistic well wait a
+
+305
+00:14:32,519 --> 00:14:37,120
+minute I would say so it's not a bad
+
+306
+00:14:35,279 --> 00:14:39,519
+thing well it's not egotistic no it's
+
+307
+00:14:37,120 --> 00:14:41,160
+this is my this is my test this isn't
+
+308
+00:14:39,519 --> 00:14:43,600
+your test this isn't what you would say
+
+309
+00:14:41,160 --> 00:14:45,399
+so it's what what I would say I'm
+
+310
+00:14:43,600 --> 00:14:47,560
+telling you that I'm not egotistic if
+
+311
+00:14:45,399 --> 00:14:49,800
+you would like an accurate portrayal and
+
+312
+00:14:47,560 --> 00:14:51,240
+and well that's what I want I want an
+
+313
+00:14:49,800 --> 00:14:53,519
+accurate portrayal then I would say that
+
+314
+00:14:51,240 --> 00:14:55,839
+you're egotistic no it's not what you
+
+315
+00:14:53,519 --> 00:14:57,920
+would say it's what I'm telling you you
+
+316
+00:14:55,839 --> 00:14:59,759
+see this is your ego speaking right now
+
+317
+00:14:57,920 --> 00:15:02,079
+no this is me speaking
+
+318
+00:14:59,759 --> 00:15:03,759
+I'm telling you to well well I'll just
+
+319
+00:15:02,079 --> 00:15:06,519
+do the whole thing myself if you're
+
+320
+00:15:03,759 --> 00:15:08,720
+going to be like this I'm just you know
+
+321
+00:15:06,519 --> 00:15:13,519
+I'm dealing with my own Impressions and
+
+322
+00:15:08,720 --> 00:15:16,480
+no see okay okay I don't you fine how
+
+323
+00:15:13,519 --> 00:15:19,320
+can you you you can't you can't tell me
+
+324
+00:15:16,480 --> 00:15:21,320
+the way I am you you you know if if you
+
+325
+00:15:19,320 --> 00:15:24,079
+don't want to learn
+
+326
+00:15:21,320 --> 00:15:26,079
+anything you're just going to I mean
+
+327
+00:15:24,079 --> 00:15:30,920
+it's you don't even know what you're
+
+328
+00:15:26,079 --> 00:15:30,920
+doing really do you I would say no
+
+329
+00:15:31,120 --> 00:15:35,360
+apprehensive you seem apprehensive your
+
+330
+00:15:33,399 --> 00:15:37,680
+body is full of apprehensive well yes I
+
+331
+00:15:35,360 --> 00:15:39,360
+am apprehensive that's very good
+
+332
+00:15:37,680 --> 00:15:42,240
+someone's got to be apprehensive you
+
+333
+00:15:39,360 --> 00:15:45,440
+certainly aren't if you're just letting
+
+334
+00:15:42,240 --> 00:15:48,560
+it things yes I'm
+
+335
+00:15:45,440 --> 00:15:50,279
+conventional is is insulting me making
+
+336
+00:15:48,560 --> 00:15:53,160
+you feel I'm not trying to insult you
+
+337
+00:15:50,279 --> 00:15:56,160
+I'm just trying to point out your own
+
+338
+00:15:53,160 --> 00:15:58,160
+problems cuz you you you had a
+
+339
+00:15:56,160 --> 00:16:00,319
+difficulty pyal you had a difficulty
+
+340
+00:15:58,160 --> 00:16:01,600
+before and you realized what it was and
+
+341
+00:16:00,319 --> 00:16:03,720
+you were embarrassed and you were much
+
+342
+00:16:01,600 --> 00:16:06,360
+happier after you were embarrassed I'm
+
+343
+00:16:03,720 --> 00:16:09,279
+just trying to help you okay rigid no no
+
+344
+00:16:06,360 --> 00:16:12,839
+I no that's not
+
+345
+00:16:09,279 --> 00:16:12,839
+right I am
+
+346
+00:16:13,199 --> 00:16:17,600
+kind okay this is your test we'll just
+
+347
+00:16:15,839 --> 00:16:19,880
+this is yes this is my test this isn't
+
+348
+00:16:17,600 --> 00:16:21,160
+your test if you say that you're kind
+
+349
+00:16:19,880 --> 00:16:24,519
+I'm just letting you use the mouse
+
+350
+00:16:21,160 --> 00:16:27,519
+because it's your computer rigid yes
+
+351
+00:16:24,519 --> 00:16:28,920
+otherwise I i' do it myself if it were
+
+352
+00:16:27,519 --> 00:16:31,720
+my computer well actually I wouldn't
+
+353
+00:16:28,920 --> 00:16:35,519
+even use a Macintosh I'd use my my my
+
+354
+00:16:31,720 --> 00:16:38,000
+cray but um no no you have to do it like
+
+355
+00:16:35,519 --> 00:16:39,959
+this you keep you keep I'm telling it's
+
+356
+00:16:38,000 --> 00:16:42,079
+much faster more efficient it's much
+
+357
+00:16:39,959 --> 00:16:45,720
+easier for me to just hold the
+
+358
+00:16:42,079 --> 00:16:47,319
+ball put down here and move it see you
+
+359
+00:16:45,720 --> 00:16:49,440
+see if I if I try to do it like this
+
+360
+00:16:47,319 --> 00:16:52,600
+look it it's not getting anywhere okay
+
+361
+00:16:49,440 --> 00:16:54,560
+I'm getting very angry my feelings are
+
+362
+00:16:52,600 --> 00:16:56,319
+really welling up right now and I would
+
+363
+00:16:54,560 --> 00:16:57,440
+like you to do it yourself well thank
+
+364
+00:16:56,319 --> 00:17:02,120
+you very
+
+365
+00:16:57,440 --> 00:17:02,120
+much but I still would like to have some
+
+366
+00:17:02,720 --> 00:17:07,600
+say I wouldn't say sympathetic or well
+
+367
+00:17:05,400 --> 00:17:10,360
+it's my test isn't it it's not your test
+
+368
+00:17:07,600 --> 00:17:13,039
+if you okay if you want this to be
+
+369
+00:17:10,360 --> 00:17:14,919
+inaccurate um although of course you
+
+370
+00:17:13,039 --> 00:17:16,240
+know maybe if you maybe you are right
+
+371
+00:17:14,919 --> 00:17:18,199
+maybe this is just a really high
+
+372
+00:17:16,240 --> 00:17:20,160
+pressured situation for you and well
+
+373
+00:17:18,199 --> 00:17:22,439
+this is a TV show and of course if you
+
+374
+00:17:20,160 --> 00:17:24,319
+are high press if you are you expect it
+
+375
+00:17:22,439 --> 00:17:26,039
+not to be high pressure well of course
+
+376
+00:17:24,319 --> 00:17:28,520
+not did you expect to just come on here
+
+377
+00:17:26,039 --> 00:17:30,400
+and just to to sit back and relax and
+
+378
+00:17:28,520 --> 00:17:33,320
+talk about the good old days at the open
+
+379
+00:17:30,400 --> 00:17:34,679
+school and and to bring on something
+
+380
+00:17:33,320 --> 00:17:37,720
+that you don't you didn't even know how
+
+381
+00:17:34,679 --> 00:17:39,679
+to use how could you come on with a a
+
+382
+00:17:37,720 --> 00:17:41,440
+piece of Machinery that you're claiming
+
+383
+00:17:39,679 --> 00:17:43,760
+not only claiming to to be the author of
+
+384
+00:17:41,440 --> 00:17:45,880
+but you don't know how to use it and I I
+
+385
+00:17:43,760 --> 00:17:47,919
+think that that's very um that's very
+
+386
+00:17:45,880 --> 00:17:49,880
+strange do you want me to answer these
+
+387
+00:17:47,919 --> 00:17:52,120
+questions or are you just going to keep
+
+388
+00:17:49,880 --> 00:17:53,720
+talking well yes I'd like you to answer
+
+389
+00:17:52,120 --> 00:17:56,760
+these questions
+
+390
+00:17:53,720 --> 00:17:59,520
+okay I'm
+
+391
+00:17:56,760 --> 00:18:01,960
+vulnerable I'm learning
+
+392
+00:17:59,520 --> 00:18:04,039
+I'm a fragile person well we're all
+
+393
+00:18:01,960 --> 00:18:05,679
+learning I'm in a process you're you're
+
+394
+00:18:04,039 --> 00:18:07,240
+not I'm learning how to use Ma you're
+
+395
+00:18:05,679 --> 00:18:09,039
+nothing special I mean because I don't
+
+396
+00:18:07,240 --> 00:18:10,600
+know how to use a machine doesn't mean
+
+397
+00:18:09,039 --> 00:18:11,559
+that I'm not going to present well no
+
+398
+00:18:10,600 --> 00:18:13,000
+I'm not saying that there's anything
+
+399
+00:18:11,559 --> 00:18:16,760
+wrong with that but what I'm saying is
+
+400
+00:18:13,000 --> 00:18:19,200
+that to to to claim to write and and and
+
+401
+00:18:16,760 --> 00:18:20,919
+to to be the originator of something and
+
+402
+00:18:19,200 --> 00:18:23,200
+and then to come on national television
+
+403
+00:18:20,919 --> 00:18:27,520
+and then not know what you're doing I
+
+404
+00:18:23,200 --> 00:18:29,559
+mean you're it's I I am I am uh I I
+
+405
+00:18:27,520 --> 00:18:31,640
+guess I am upset because you're you're
+
+406
+00:18:29,559 --> 00:18:33,360
+ruining the the Integrity of my show
+
+407
+00:18:31,640 --> 00:18:36,240
+which is not which is no surprise to me
+
+408
+00:18:33,360 --> 00:18:38,159
+now I mean this this is no surprise I'm
+
+409
+00:18:36,240 --> 00:18:40,600
+sorry we're we're trying to run a very
+
+410
+00:18:38,159 --> 00:18:45,080
+tight ship here as as you would probably
+
+411
+00:18:40,600 --> 00:18:48,120
+imagine okay and um okay I'm sorry okay
+
+412
+00:18:45,080 --> 00:18:50,159
+okay now we can go on okay let's go on
+
+413
+00:18:48,120 --> 00:18:54,679
+great let's
+
+414
+00:18:50,159 --> 00:19:00,280
+Okay um quiet um I wouldn't say I'm
+
+415
+00:18:54,679 --> 00:19:03,240
+quiet um uh sarcastic no um concerned
+
+416
+00:19:00,280 --> 00:19:05,000
+yes very much I'm very concerned very
+
+417
+00:19:03,240 --> 00:19:07,120
+very concerned as as my viewers would be
+
+418
+00:19:05,000 --> 00:19:09,240
+able to would my viewers would be able
+
+419
+00:19:07,120 --> 00:19:11,360
+to tell you I'm very concerned sure well
+
+420
+00:19:09,240 --> 00:19:13,520
+you know if if these are honestly the
+
+421
+00:19:11,360 --> 00:19:15,320
+answers that you think that will will
+
+422
+00:19:13,520 --> 00:19:17,720
+will Express the best in you then I'm
+
+423
+00:19:15,320 --> 00:19:23,400
+sure that the profile will become a
+
+424
+00:19:17,720 --> 00:19:28,559
+complete accurate portrayal of you yes
+
+425
+00:19:23,400 --> 00:19:30,919
+okay um competitive yes apologetic um
+
+426
+00:19:28,559 --> 00:19:32,760
+okay had a lot of interesting and funny
+
+427
+00:19:30,919 --> 00:19:35,080
+experiences working on this yes
+
+428
+00:19:32,760 --> 00:19:36,480
+independent yes I was set up in a
+
+429
+00:19:35,080 --> 00:19:38,760
+shopping mall once and I was seeing a
+
+430
+00:19:36,480 --> 00:19:40,720
+lot of people uh who came up and did
+
+431
+00:19:38,760 --> 00:19:42,720
+this did you were you answering the
+
+432
+00:19:40,720 --> 00:19:44,919
+questions for them or were they
+
+433
+00:19:42,720 --> 00:19:47,280
+answering it for themselves they were
+
+434
+00:19:44,919 --> 00:19:49,159
+answering it for themselves I was should
+
+435
+00:19:47,280 --> 00:19:50,880
+be done I think well I felt that you
+
+436
+00:19:49,159 --> 00:19:54,159
+know since you and I had spoken to each
+
+437
+00:19:50,880 --> 00:19:55,880
+other and sort of had an understanding I
+
+438
+00:19:54,159 --> 00:19:58,120
+thought well since this is your test I
+
+439
+00:19:55,880 --> 00:19:59,440
+think you I see I I I was I was
+
+440
+00:19:58,120 --> 00:20:00,880
+expecting that you would be running the
+
+441
+00:19:59,440 --> 00:20:02,600
+machinery and I would be giving you my
+
+442
+00:20:00,880 --> 00:20:04,799
+responses okay that's we all deal with
+
+443
+00:20:02,600 --> 00:20:06,880
+expectations in our lives sometimes we
+
+444
+00:20:04,799 --> 00:20:08,440
+we set things up in our minds that are
+
+445
+00:20:06,880 --> 00:20:10,919
+going to be a certain way and then when
+
+446
+00:20:08,440 --> 00:20:13,480
+they turn out to be different we don't
+
+447
+00:20:10,919 --> 00:20:15,159
+know how to deal with that okay we don't
+
+448
+00:20:13,480 --> 00:20:18,960
+know how to handle that yes could you
+
+449
+00:20:15,159 --> 00:20:22,360
+please um um you you run the machine
+
+450
+00:20:18,960 --> 00:20:25,640
+okay okay okay thank you
+
+451
+00:20:22,360 --> 00:20:29,559
+mhm now this is a switch for
+
+452
+00:20:25,640 --> 00:20:31,679
+you what you're letting me run this
+
+453
+00:20:29,559 --> 00:20:33,000
+you're trusting me again well because
+
+454
+00:20:31,679 --> 00:20:35,120
+it's because I've told you what was
+
+455
+00:20:33,000 --> 00:20:37,000
+wrong and I'm telling you how to do it
+
+456
+00:20:35,120 --> 00:20:41,360
+see I had to I had to instruct you how
+
+457
+00:20:37,000 --> 00:20:45,760
+to do it okay um okay um sensitive
+
+458
+00:20:41,360 --> 00:20:51,720
+yes no agree oh I'm I'm sorry put that
+
+459
+00:20:45,760 --> 00:20:54,280
+right well I I I um Meek um no no I
+
+460
+00:20:51,720 --> 00:20:56,640
+would agree with that meticulous yes
+
+461
+00:20:54,280 --> 00:20:58,440
+very yes okay as my my viewers would be
+
+462
+00:20:56,640 --> 00:21:00,559
+able to tell you I'm very meticulous
+
+463
+00:20:58,440 --> 00:21:02,520
+okay okay no now you're using your
+
+464
+00:21:00,559 --> 00:21:05,440
+finger again I know it just would go
+
+465
+00:21:02,520 --> 00:21:06,880
+much faster if I could just use my
+
+466
+00:21:05,440 --> 00:21:09,880
+finger there
+
+467
+00:21:06,880 --> 00:21:15,200
+suspicious
+
+468
+00:21:09,880 --> 00:21:17,799
+yes no I'm not funloving okay I hate fun
+
+469
+00:21:15,200 --> 00:21:21,000
+help seeking help seeking
+
+470
+00:21:17,799 --> 00:21:23,120
+no charitable yes
+
+471
+00:21:21,000 --> 00:21:26,799
+good that's another thing we need of
+
+472
+00:21:23,120 --> 00:21:29,120
+more in this world charity help kindness
+
+473
+00:21:26,799 --> 00:21:31,440
+no I'm not charitable no change
+
+474
+00:21:29,120 --> 00:21:36,039
+that
+
+475
+00:21:31,440 --> 00:21:37,480
+okay neighborly no achieving yes it's
+
+476
+00:21:36,039 --> 00:21:42,600
+what we need more of it's what you need
+
+477
+00:21:37,480 --> 00:21:44,720
+more of see I've achieved what I want
+
+478
+00:21:42,600 --> 00:21:48,440
+self-esteem well
+
+479
+00:21:44,720 --> 00:21:52,440
+you you you you you haven't achieved you
+
+480
+00:21:48,440 --> 00:21:56,760
+you haven't seem to uh mastered uh your
+
+481
+00:21:52,440 --> 00:21:59,320
+uh your your own uh profession yet M um
+
+482
+00:21:56,760 --> 00:22:02,279
+I don't well I have I'm I've mastered
+
+483
+00:21:59,320 --> 00:22:04,120
+enough to be happy with myself you have
+
+484
+00:22:02,279 --> 00:22:05,720
+I have extra time I'm making a living
+
+485
+00:22:04,120 --> 00:22:07,840
+I'm supporting my
+
+486
+00:22:05,720 --> 00:22:09,679
+family okay well let's just let's just
+
+487
+00:22:07,840 --> 00:22:12,720
+keep
+
+488
+00:22:09,679 --> 00:22:17,080
+going okay okay
+
+489
+00:22:12,720 --> 00:22:21,880
+next see we're wasting time here
+
+490
+00:22:17,080 --> 00:22:23,880
+um um okay just just keep
+
+491
+00:22:21,880 --> 00:22:28,120
+going I wish you could go a little
+
+492
+00:22:23,880 --> 00:22:29,120
+faster precise yes guarded yes why are
+
+493
+00:22:28,120 --> 00:22:31,720
+you so
+
+494
+00:22:29,120 --> 00:22:33,159
+slow why are you taking so much time the
+
+495
+00:22:31,720 --> 00:22:34,919
+show is almost over carefully
+
+496
+00:22:33,159 --> 00:22:37,880
+considering we haven't even we haven't
+
+497
+00:22:34,919 --> 00:22:39,520
+even we haven't even gotten we haven't
+
+498
+00:22:37,880 --> 00:22:41,400
+see my viewers are going to be very
+
+499
+00:22:39,520 --> 00:22:46,400
+disappointed we haven't even gotten to
+
+500
+00:22:41,400 --> 00:22:47,799
+uh to uh to the report yet because you
+
+501
+00:22:46,400 --> 00:22:49,240
+you you're stick you're you're wasting
+
+502
+00:22:47,799 --> 00:22:51,159
+time and you because you don't know how
+
+503
+00:22:49,240 --> 00:22:53,880
+to use
+
+504
+00:22:51,159 --> 00:22:57,760
+it I'm taking all of that
+
+505
+00:22:53,880 --> 00:22:59,279
+in that's okay you see it's a process
+
+506
+00:22:57,760 --> 00:23:00,880
+even going through answering these
+
+507
+00:22:59,279 --> 00:23:02,279
+questions we're learning something about
+
+508
+00:23:00,880 --> 00:23:05,320
+you and about
+
+509
+00:23:02,279 --> 00:23:07,760
+ourselves why are you so relaxed because
+
+510
+00:23:05,320 --> 00:23:09,200
+I feel good why do you feel so good
+
+511
+00:23:07,760 --> 00:23:11,360
+you're so relaxed and you're just and
+
+512
+00:23:09,200 --> 00:23:13,679
+you're just sitting there why are you
+
+513
+00:23:11,360 --> 00:23:16,919
+taking everything I don't understand
+
+514
+00:23:13,679 --> 00:23:19,440
+it it's okay I don't have to understand
+
+515
+00:23:16,919 --> 00:23:21,039
+everything what could we speed it up
+
+516
+00:23:19,440 --> 00:23:23,159
+please we've only got about 10 minutes
+
+517
+00:23:21,039 --> 00:23:24,480
+left on the show see we we the The
+
+518
+00:23:23,159 --> 00:23:27,400
+Producers have just come on we have to
+
+519
+00:23:24,480 --> 00:23:29,360
+speed it up let's go okay okay that's it
+
+520
+00:23:27,400 --> 00:23:32,200
+let's let's that's it
+
+521
+00:23:29,360 --> 00:23:34,600
+okay okay that's it now now let's look
+
+522
+00:23:32,200 --> 00:23:37,440
+we're done anyway we're right okay let's
+
+523
+00:23:34,600 --> 00:23:39,960
+let's see what it is see
+
+524
+00:23:37,440 --> 00:23:41,559
+okay I I can't I can't believe that you
+
+525
+00:23:39,960 --> 00:23:43,480
+you you come on here and you just it's
+
+526
+00:23:41,559 --> 00:23:46,400
+just it's okay is it all right if I
+
+527
+00:23:43,480 --> 00:23:49,039
+touch you like that where are you from
+
+528
+00:23:46,400 --> 00:23:52,679
+California of course
+
+529
+00:23:49,039 --> 00:23:56,279
+California well do it come on put it put
+
+530
+00:23:52,679 --> 00:24:00,360
+it on the the box it says okay okay now
+
+531
+00:23:56,279 --> 00:24:00,360
+see it's going to come on the screen
+
+532
+00:24:01,039 --> 00:24:06,880
+okay I'll read it if we don't have much
+
+533
+00:24:03,799 --> 00:24:08,600
+time Dr s is a very versatile person
+
+534
+00:24:06,880 --> 00:24:10,400
+unless you observe him in more than one
+
+535
+00:24:08,600 --> 00:24:12,440
+setting you may never realize how
+
+536
+00:24:10,400 --> 00:24:13,880
+skillfully he plays various roles well
+
+537
+00:24:12,440 --> 00:24:16,000
+what ises that supposed to
+
+538
+00:24:13,880 --> 00:24:18,440
+mean well that means that you do a lot
+
+539
+00:24:16,000 --> 00:24:21,000
+in your life yes judging from the
+
+540
+00:24:18,440 --> 00:24:23,240
+answers that you gave you are a very
+
+541
+00:24:21,000 --> 00:24:25,039
+versatile person you fit well in many
+
+542
+00:24:23,240 --> 00:24:26,960
+situations you're the kind of person
+
+543
+00:24:25,039 --> 00:24:29,159
+that a lot of people get along
+
+544
+00:24:26,960 --> 00:24:31,559
+with um
+
+545
+00:24:29,159 --> 00:24:33,919
+what what was the what was the criteria
+
+546
+00:24:31,559 --> 00:24:36,520
+for this for this um this program this
+
+547
+00:24:33,919 --> 00:24:39,360
+is based on the answers that you gave
+
+548
+00:24:36,520 --> 00:24:42,240
+yes but you you you somehow you you well
+
+549
+00:24:39,360 --> 00:24:42,240
+let's look at the next
+
+550
+00:24:42,320 --> 00:24:46,919
+one you're cooperative and a practical
+
+551
+00:24:45,000 --> 00:24:49,240
+friend you're Adept at the give and take
+
+552
+00:24:46,919 --> 00:24:52,039
+relationships considerate companion you
+
+553
+00:24:49,240 --> 00:24:53,919
+expect the same balanced approach from
+
+554
+00:24:52,039 --> 00:24:56,120
+those who want to be involved with you
+
+555
+00:24:53,919 --> 00:24:59,799
+you tend to be at ease interpersonally
+
+556
+00:24:56,120 --> 00:25:02,039
+being neither the overly dominant or
+
+557
+00:24:59,799 --> 00:25:03,520
+passive again these are based on the
+
+558
+00:25:02,039 --> 00:25:05,559
+answers you gave me well no this is
+
+559
+00:25:03,520 --> 00:25:08,120
+based on what you put into the computer
+
+560
+00:25:05,559 --> 00:25:09,760
+b i a no matter what you I have a
+
+561
+00:25:08,120 --> 00:25:11,200
+feeling that from what what I've seen of
+
+562
+00:25:09,760 --> 00:25:13,840
+you so far that it doesn't really matter
+
+563
+00:25:11,200 --> 00:25:15,480
+what you answer very carefully okay this
+
+564
+00:25:13,840 --> 00:25:17,000
+has been very carefully researched
+
+565
+00:25:15,480 --> 00:25:19,200
+everything is based on character
+
+566
+00:25:17,000 --> 00:25:20,919
+profiles people that I've spoken with
+
+567
+00:25:19,200 --> 00:25:22,679
+this is based on the answers you gave me
+
+568
+00:25:20,919 --> 00:25:26,279
+and maybe the answers you gave are
+
+569
+00:25:22,679 --> 00:25:29,360
+wrong when life throws um Dr sphincter a
+
+570
+00:25:26,279 --> 00:25:32,440
+curve he runs with it now is that some
+
+571
+00:25:29,360 --> 00:25:33,640
+kind of U I don't see why you need slang
+
+572
+00:25:32,440 --> 00:25:35,760
+why can't you be a little more
+
+573
+00:25:33,640 --> 00:25:37,840
+scientific in your description problems
+
+574
+00:25:35,760 --> 00:25:41,880
+in everyday living don't usually bother
+
+575
+00:25:37,840 --> 00:25:45,120
+him when all does not go well he can
+
+576
+00:25:41,880 --> 00:25:47,679
+usually stay calm well that's completely
+
+577
+00:25:45,120 --> 00:25:49,600
+wrong isn't it I mean you it's
+
+578
+00:25:47,679 --> 00:25:51,799
+completely wrong well this is how come
+
+579
+00:25:49,600 --> 00:25:53,919
+you've uh written a program like this
+
+580
+00:25:51,799 --> 00:25:55,279
+it's because it's based on the answers
+
+581
+00:25:53,919 --> 00:25:57,159
+you gave me maybe you should look at the
+
+582
+00:25:55,279 --> 00:25:59,159
+answers you gave well maybe you should
+
+583
+00:25:57,159 --> 00:26:01,960
+start thinking about your very carefully
+
+584
+00:25:59,159 --> 00:26:06,640
+answered I had to change hostility to
+
+585
+00:26:01,960 --> 00:26:09,720
+change of your sarcastic vitriolic what
+
+586
+00:26:06,640 --> 00:26:12,919
+about came on here subersive your
+
+587
+00:26:09,720 --> 00:26:15,440
+subversive fall over the you you don't
+
+588
+00:26:12,919 --> 00:26:17,480
+even know what's going on what's going
+
+589
+00:26:15,440 --> 00:26:19,159
+everything to crumble apart you you you
+
+590
+00:26:17,480 --> 00:26:21,320
+won't be happy until everyone's in
+
+591
+00:26:19,159 --> 00:26:23,360
+misery you're one of those destructive
+
+592
+00:26:21,320 --> 00:26:25,360
+people you probably you probably love
+
+593
+00:26:23,360 --> 00:26:27,600
+that there's there's garbage filling up
+
+594
+00:26:25,360 --> 00:26:31,080
+all over the world hate that how say
+
+595
+00:26:27,600 --> 00:26:34,279
+that about that people are hungry and
+
+596
+00:26:31,080 --> 00:26:35,440
+and buildings are being down histor
+
+597
+00:26:34,279 --> 00:26:38,320
+you're the one that looks garbage you
+
+598
+00:26:35,440 --> 00:26:42,679
+came on here here from California yes of
+
+599
+00:26:38,320 --> 00:26:46,880
+course I be torn apart by some angry
+
+600
+00:26:42,679 --> 00:26:48,200
+repressed little tight confused hard
+
+601
+00:26:46,880 --> 00:26:49,679
+you're the one that's confused you don't
+
+602
+00:26:48,200 --> 00:26:52,440
+even know how to use the
+
+603
+00:26:49,679 --> 00:26:55,039
+computer you're confused blood you you
+
+604
+00:26:52,440 --> 00:26:56,720
+probably eat eat pork I eat hot dogs yes
+
+605
+00:26:55,039 --> 00:27:00,240
+I do eat pork what do you eat are you
+
+606
+00:26:56,720 --> 00:27:00,240
+some kind of Hipp veget
+
+607
+00:27:00,880 --> 00:27:06,559
+I'm concerned theut this that's it
+
+608
+00:27:02,919 --> 00:27:10,000
+that's it okay that's it I'm very very
+
+609
+00:27:06,559 --> 00:27:12,679
+sorry um once again we we we've had
+
+610
+00:27:10,000 --> 00:27:15,000
+problems I I thought that he since he
+
+611
+00:27:12,679 --> 00:27:16,600
+said he was a a computer programmer and
+
+612
+00:27:15,000 --> 00:27:19,720
+he had written a program called mind
+
+613
+00:27:16,600 --> 00:27:22,679
+crober that he would be a uh a useful
+
+614
+00:27:19,720 --> 00:27:25,159
+guest for the show but but once again we
+
+615
+00:27:22,679 --> 00:27:26,679
+we run into of problems again um I'm I'm
+
+616
+00:27:25,159 --> 00:27:29,320
+I'm very sorry that it didn't go very
+
+617
+00:27:26,679 --> 00:27:31,200
+well today um
+
+618
+00:27:29,320 --> 00:27:34,000
+he he he didn't even know how to use the
+
+619
+00:27:31,200 --> 00:27:37,320
+the computer and he he started arguing
+
+620
+00:27:34,000 --> 00:27:37,320
+with me and he became very
+
+621
+00:27:38,440 --> 00:27:42,159
+upset I hope we don't get cancelled
+
+622
+00:27:40,559 --> 00:27:46,159
+because of
+
+623
+00:27:42,159 --> 00:27:46,159
+this goodbye
+
+624
+00:27:48,240 --> 00:27:51,990
+[Music]
+
+625
+00:27:54,550 --> 00:28:11,980
+[Music]
+
+626
+00:28:18,480 --> 00:28:25,360
+hello as a public service uh we have
+
+627
+00:28:21,960 --> 00:28:27,600
+organize the Dr sphincter fan club
+
+628
+00:28:25,360 --> 00:28:33,039
+please send a self-addressed stamped
+
+629
+00:28:27,600 --> 00:28:37,760
+envelope to Dr sphincter P box1
+
+630
+00:28:33,039 --> 00:28:42,120
+16108 Minneapolis Minnesota
+
+631
+00:28:37,760 --> 00:28:44,919
+55416 send $5 to uh belong to the fan
+
+632
+00:28:42,120 --> 00:28:47,240
+club we'll send you a a small fan not
+
+633
+00:28:44,919 --> 00:28:51,240
+like this one this is my fan we'll send
+
+634
+00:28:47,240 --> 00:28:58,000
+you a smaller fan and uh uh the tight
+
+635
+00:28:51,240 --> 00:28:58,000
+tight newsletter um so um thank you
+
